@@ -1,0 +1,16 @@
+1
+app.UseStaticFiles(); // This line enables serving static files from 'wwwroot'
+
+2.Install Required NuGet Packages
+Microsoft.AspNetCore.StaticFiles
+
+
+
+
+
+
+
+
+
+
+

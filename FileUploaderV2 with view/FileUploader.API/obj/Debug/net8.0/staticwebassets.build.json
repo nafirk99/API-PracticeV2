@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "O0EwB5FL+6Gr96vCoSXWdtTlMZwBw0ZEq4nlxYJF57U=",
+  "Source": "FileUploader.API",
+  "BasePath": "_content/FileUploader.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileUploader.API\\wwwroot",
+      "Source": "FileUploader.API",
+      "ContentRoot": "E:\\Project\\formdata File Uploader\\FileUploader\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
