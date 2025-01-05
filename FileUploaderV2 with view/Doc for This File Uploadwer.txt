@@ -1,8 +1,60 @@
+https://chatgpt.com/share/677a8d57-f1f0-8003-8e35-7d31afe9f5ff
+https://chatgpt.com/share/677a8d57-f1f0-8003-8e35-7d31afe9f5ff
+
 1
 app.UseStaticFiles(); // This line enables serving static files from 'wwwroot'
 
 2.Install Required NuGet Packages
 Microsoft.AspNetCore.StaticFiles
+
+
+Step 8: Add a Frontend for File Upload (Optional)
+If you'd like a simple frontend to test the API:
+
+Add an HTML Page
+Create a new folder Pages in the project root.
+Add a file upload.html inside the Pages folder with the following content:
+html
+Copy code
+<!DOCTYPE html>
+<html>
+<head>
+    <title>File Upload</title>
+</head>
+<body>
+    <h1>Upload File</h1>
+    <form action="/api/fileupload/upload" method="post" enctype="multipart/form-data">
+        <label for="file">Choose a file:</label>
+        <input type="file" name="file" id="file">
+        <button type="submit">Upload</button>
+    </form>
+</body>
+</html>
+Update Program.cs to Serve the Page:
+csharp
+Copy code
+app.UseDefaultFiles(); // To serve default files like index.html
+app.UseStaticFiles();
+Navigate to http://localhost:<port>/upload.html in your browser to test the upload functionality.
+Complete Project Structure
+Your project should now look like this:
+
+scss
+Copy code
+FileUploadExample/
+│
+├── Controllers/
+│   └── FileUploadController.cs
+│
+├── wwwroot/
+│   └── uploads/  (Uploaded files will be stored here)
+│
+├── Pages/
+│   └── upload.html  (Frontend for testing file upload)
+│
+├── Program.cs
+│
+└── FileUploadExample.csproj
 
 
 

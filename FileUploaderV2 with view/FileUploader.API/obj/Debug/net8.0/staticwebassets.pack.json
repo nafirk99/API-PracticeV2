@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\upload.html",
+      "PackagePath": "staticwebassets\\upload.html"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\Task.txt",
+      "PackagePath": "staticwebassets\\uploads\\Task.txt"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\sd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sd.jpg"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\slack.exe",
+      "PackagePath": "staticwebassets\\uploads\\slack.exe"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FileUploader.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FileUploader.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FileUploader.API.props",
+      "PackagePath": "build\\FileUploader.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FileUploader.API.props",
+      "PackagePath": "buildMultiTargeting\\FileUploader.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FileUploader.API.props",
+      "PackagePath": "buildTransitive\\FileUploader.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O0EwB5FL+6Gr96vCoSXWdtTlMZwBw0ZEq4nlxYJF57U=",
+  "Hash": "vmlJH3/J4cjvrRAFgmzlc8NWs/X0EqAbVvW9ljL6Vwg=",
   "Source": "FileUploader.API",
   "BasePath": "_content/FileUploader.API",
   "Mode": "Default",
@@ -10,11 +10,322 @@
     {
       "Name": "FileUploader.API\\wwwroot",
       "Source": "FileUploader.API",
-      "ContentRoot": "E:\\Project\\formdata File Uploader\\FileUploader\\FileUploader.API\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\",
       "BasePath": "_content/FileUploader.API",
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\.gitconfig",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/#[.{fingerprint}]?.gitconfig",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hbuwcsxe4f",
+      "Integrity": "fW3dDXNqWY1eGxQIbgGf8sxl7RIVadsiJNnA1TS5dWM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\.gitconfig"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\jpeg444.jpg",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/jpeg444#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b73d0iixzb",
+      "Integrity": "icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\jpeg444.jpg"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\jpeg444asdasdada.jpg",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/jpeg444asdasdada#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b73d0iixzb",
+      "Integrity": "icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\jpeg444asdasdada.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/.gitconfig",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\.gitconfig",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fW3dDXNqWY1eGxQIbgGf8sxl7RIVadsiJNnA1TS5dWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:29:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fW3dDXNqWY1eGxQIbgGf8sxl7RIVadsiJNnA1TS5dWM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/.hbuwcsxe4f.gitconfig",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\.gitconfig",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fW3dDXNqWY1eGxQIbgGf8sxl7RIVadsiJNnA1TS5dWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:29:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hbuwcsxe4f"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/.gitconfig"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fW3dDXNqWY1eGxQIbgGf8sxl7RIVadsiJNnA1TS5dWM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/jpeg444.b73d0iixzb.jpg",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\jpeg444.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:30:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b73d0iixzb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/jpeg444.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/jpeg444.jpg",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\jpeg444.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:30:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/jpeg444asdasdada.b73d0iixzb.jpg",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\jpeg444asdasdada.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:32:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b73d0iixzb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/jpeg444asdasdada.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/jpeg444asdasdada.jpg",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\jpeg444asdasdada.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:32:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo="
+        }
+      ]
+    }
+  ]
 }

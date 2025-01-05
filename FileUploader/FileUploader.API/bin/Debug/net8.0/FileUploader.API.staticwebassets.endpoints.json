@@ -1,5 +1,252 @@
 {
   "Version": 1,
   "ManifestType": "Build",
-  "Endpoints": []
+  "Endpoints": [
+    {
+      "Route": "uploads/.gitconfig",
+      "AssetFile": "uploads/.gitconfig",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fW3dDXNqWY1eGxQIbgGf8sxl7RIVadsiJNnA1TS5dWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:29:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fW3dDXNqWY1eGxQIbgGf8sxl7RIVadsiJNnA1TS5dWM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/.hbuwcsxe4f.gitconfig",
+      "AssetFile": "uploads/.gitconfig",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fW3dDXNqWY1eGxQIbgGf8sxl7RIVadsiJNnA1TS5dWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:29:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hbuwcsxe4f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fW3dDXNqWY1eGxQIbgGf8sxl7RIVadsiJNnA1TS5dWM="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/.gitconfig"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/jpeg444.b73d0iixzb.jpg",
+      "AssetFile": "uploads/jpeg444.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:30:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b73d0iixzb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/jpeg444.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/jpeg444.jpg",
+      "AssetFile": "uploads/jpeg444.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:30:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/jpeg444asdasdada.b73d0iixzb.jpg",
+      "AssetFile": "uploads/jpeg444asdasdada.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:32:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b73d0iixzb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/jpeg444asdasdada.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/jpeg444asdasdada.jpg",
+      "AssetFile": "uploads/jpeg444asdasdada.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:32:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo="
+        }
+      ]
+    }
+  ]
 }

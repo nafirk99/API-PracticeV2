@@ -34,6 +34,8 @@ namespace FileUploader.API.Controllers
                 FileSize = file.Length,
                 FilePath = $"/uploads/{file.FileName}"
             });
+
+            // https://localhost:7079/upload.html
         }
     }
 }

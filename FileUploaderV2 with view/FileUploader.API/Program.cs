@@ -15,6 +15,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseDefaultFiles(); // To serve default files like index.html
 // Enable static file serving
 app.UseStaticFiles(); // This line enables serving static files from 'wwwroot' Order: Ensure that UseStaticFiles() is called before other middleware that might interfere with static file serving.
 

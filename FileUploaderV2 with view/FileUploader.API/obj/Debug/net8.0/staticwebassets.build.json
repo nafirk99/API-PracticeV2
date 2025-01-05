@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O0EwB5FL+6Gr96vCoSXWdtTlMZwBw0ZEq4nlxYJF57U=",
+  "Hash": "Ns9oaJd2h6jddwr4gSzi5vial7ptDVNbhwRshz0gAko=",
   "Source": "FileUploader.API",
   "BasePath": "_content/FileUploader.API",
   "Mode": "Default",
@@ -10,11 +10,425 @@
     {
       "Name": "FileUploader.API\\wwwroot",
       "Source": "FileUploader.API",
-      "ContentRoot": "E:\\Project\\formdata File Uploader\\FileUploader\\FileUploader.API\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\",
       "BasePath": "_content/FileUploader.API",
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\upload.html",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "upload#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ymwm0s8mo",
+      "Integrity": "0S0H9ApKUVX9OEHI+tnhnSeb36+Z+SNGpVU4qmhf6Do=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload.html"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\sd.jpg",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/sd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b73d0iixzb",
+      "Integrity": "icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\sd.jpg"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\slack.exe",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/slack#[.{fingerprint}]?.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "99qpibsk4q",
+      "Integrity": "LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\slack.exe"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\Task.txt",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/Task#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8hzdtds2pj",
+      "Integrity": "JDrtx6lZm+S4V/D5afXLTdHo3ha4UQpxU8KwIQYttds=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Task.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "upload.7ymwm0s8mo.html",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\upload.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0S0H9ApKUVX9OEHI+tnhnSeb36+Z+SNGpVU4qmhf6Do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 14:08:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ymwm0s8mo"
+        },
+        {
+          "Name": "label",
+          "Value": "upload.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0S0H9ApKUVX9OEHI+tnhnSeb36+Z+SNGpVU4qmhf6Do="
+        }
+      ]
+    },
+    {
+      "Route": "upload.html",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\upload.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0S0H9ApKUVX9OEHI+tnhnSeb36+Z+SNGpVU4qmhf6Do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 14:08:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0S0H9ApKUVX9OEHI+tnhnSeb36+Z+SNGpVU4qmhf6Do="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/sd.b73d0iixzb.jpg",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\sd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:48:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b73d0iixzb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/sd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/sd.jpg",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\sd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:48:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/slack.99qpibsk4q.exe",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\slack.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "307504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 14:09:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "99qpibsk4q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/slack.exe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/slack.exe",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\slack.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "307504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 14:09:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Task.8hzdtds2pj.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\Task.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JDrtx6lZm+S4V/D5afXLTdHo3ha4UQpxU8KwIQYttds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hzdtds2pj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Task.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JDrtx6lZm+S4V/D5afXLTdHo3ha4UQpxU8KwIQYttds="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Task.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploaderV2 with view\\FileUploader.API\\wwwroot\\uploads\\Task.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JDrtx6lZm+S4V/D5afXLTdHo3ha4UQpxU8KwIQYttds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 13:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JDrtx6lZm+S4V/D5afXLTdHo3ha4UQpxU8KwIQYttds="
+        }
+      ]
+    }
+  ]
 }

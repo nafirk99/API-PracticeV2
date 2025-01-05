@@ -1,0 +1,4 @@
+wwwroot\upload.html
+wwwroot\uploads\sd.jpg
+wwwroot\uploads\slack.exe
+wwwroot\uploads\Task.txt
