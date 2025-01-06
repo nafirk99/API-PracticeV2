@@ -30,7 +30,8 @@
               "RelativeToolTip": "FileUploader.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T13:04:10.694Z"
+              "WhenOpened": "2025-01-05T13:04:10.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +41,7 @@
               "RelativeDocumentMoniker": "FileUploader.API\\Controllers\\fileuploadController.cs",
               "ToolTip": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\Controllers\\fileuploadController.cs",
               "RelativeToolTip": "FileUploader.API\\Controllers\\fileuploadController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T13:02:08.075Z",
               "EditorCaption": ""
