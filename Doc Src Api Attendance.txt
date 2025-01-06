@@ -23,6 +23,7 @@ Attendance
 6-1-2025 -- In: 11:57 AM Out: 
 
 
+# Automapper:map Between DTOs and Domain Models and Vice-Versa (Object to Object Mapping)
 
 # C# Interactive : Guid.NewGuid()
 
