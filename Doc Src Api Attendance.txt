@@ -4,6 +4,8 @@ https://www.c-sharpcorner.com/article/building-and-running-asp-net-core-applicat
 https://www.c-sharpcorner.com/article/building-and-running-asp-net-core-application-in-docker-container/
 
 Left Off: add other methods to repository
+003 Creating Walks Controller and Create New Walk Action Method
+Navigation Property
 
 SQLExpress
 SQLEXPRESS
@@ -20,8 +22,13 @@ Attendance
 2-1-2025 -- In: 11:58 AM Out: 09:00 PM
 4-1-2025 -- In: 12:00 PM Out: 09:02 PM
 5-1-2025 -- In: 11:59 AM Out: 09:00 PM 
-6-1-2025 -- In: 11:57 AM Out: 
+6-1-2025 -- In: 11:57 AM Out: 09:02 PM
+7-1-2025 -- In: 11:56 AM Out: 
 
+
+
+# Authentication: Who you Are
+# Authorization: What You Can Do
 
 # Automapper:map Between DTOs and Domain Models and Vice-Versa (Object to Object Mapping)
 
