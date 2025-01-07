@@ -142,6 +142,47 @@
         }
       }
     },
+    "/api/Walks": {
+      "post": {
+        "tags": [
+          "Walks"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddWalkDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddWalkDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddWalkDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Walks"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -198,6 +239,36 @@
           "regionImgUrl": {
             "type": "string",
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "AddWalkDTO": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "lengthInKm": {
+            "type": "number",
+            "format": "double"
+          },
+          "walkImgUrl": {
+            "type": "string",
+            "nullable": true
+          },
+          "difficultyId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "regionId": {
+            "type": "string",
+            "format": "uuid"
           }
         },
         "additionalProperties": false
