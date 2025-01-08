@@ -183,6 +183,90 @@
         }
       }
     },
+    "/api/Walks/{id}": {
+      "get": {
+        "tags": [
+          "Walks"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Walks"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateWalkDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateWalkDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateWalkDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Walks"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -226,15 +310,21 @@
   "components": {
     "schemas": {
       "AddRegionDTO": {
+        "required": [
+          "code",
+          "name"
+        ],
         "type": "object",
         "properties": {
           "code": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 3,
+            "minLength": 3,
+            "type": "string"
           },
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
           },
           "regionImgUrl": {
             "type": "string",
@@ -244,17 +334,28 @@
         "additionalProperties": false
       },
       "AddWalkDTO": {
+        "required": [
+          "description",
+          "difficultyId",
+          "lengthInKm",
+          "name",
+          "regionId"
+        ],
         "type": "object",
         "properties": {
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
           },
           "description": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 1000,
+            "minLength": 1,
+            "type": "string"
           },
           "lengthInKm": {
+            "maximum": 50,
+            "minimum": 0,
             "type": "number",
             "format": "double"
           },
@@ -274,19 +375,66 @@
         "additionalProperties": false
       },
       "UpdateRegionDTO": {
+        "required": [
+          "code",
+          "name"
+        ],
         "type": "object",
         "properties": {
           "code": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 3,
+            "minLength": 3,
+            "type": "string"
           },
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
           },
           "regionImgUrl": {
             "type": "string",
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateWalkDTO": {
+        "required": [
+          "description",
+          "difficultyId",
+          "lengthInKm",
+          "name",
+          "regionId"
+        ],
+        "type": "object",
+        "properties": {
+          "name": {
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
+          },
+          "description": {
+            "maxLength": 1000,
+            "minLength": 1,
+            "type": "string"
+          },
+          "lengthInKm": {
+            "maximum": 50,
+            "minimum": 0,
+            "type": "number",
+            "format": "double"
+          },
+          "walkImgUrl": {
+            "type": "string",
+            "nullable": true
+          },
+          "difficultyId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "regionId": {
+            "type": "string",
+            "format": "uuid"
           }
         },
         "additionalProperties": false
