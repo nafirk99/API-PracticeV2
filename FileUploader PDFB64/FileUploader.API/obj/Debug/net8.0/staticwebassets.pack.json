@@ -1,16 +1,36 @@
 {
   "Files": [
     {
-      "Id": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\.gitconfig",
-      "PackagePath": "staticwebassets\\uploads\\.gitconfig"
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.pdf",
+      "PackagePath": "staticwebassets\\uploads\\decoded\\STR_monthly_report.pdf"
     },
     {
-      "Id": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\jpeg444.jpg",
-      "PackagePath": "staticwebassets\\uploads\\jpeg444.jpg"
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.txt",
+      "PackagePath": "staticwebassets\\uploads\\decoded\\STR_monthly_report.txt"
     },
     {
-      "Id": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\uploads\\jpeg444asdasdada.jpg",
-      "PackagePath": "staticwebassets\\uploads\\jpeg444asdasdada.jpg"
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\STR_monthly_report.pdf",
+      "PackagePath": "staticwebassets\\uploads\\encoded\\STR_monthly_report.pdf"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\STR_monthly_report.txt",
+      "PackagePath": "staticwebassets\\uploads\\encoded\\STR_monthly_report.txt"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\procssed\\STR_monthly_report-decoded.pdf",
+      "PackagePath": "staticwebassets\\uploads\\procssed\\STR_monthly_report-decoded.pdf"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\procssed\\STR_monthly_report-decoded1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\procssed\\STR_monthly_report-decoded1.pdf"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\rarreg.key",
+      "PackagePath": "staticwebassets\\uploads\\rarreg.key"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\temp\\STR_monthly_report.pdf",
+      "PackagePath": "staticwebassets\\uploads\\temp\\STR_monthly_report.pdf"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FileUploader.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

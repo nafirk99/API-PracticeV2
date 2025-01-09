@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Yy7+WCRg+1W9FmFNfIg+nXrYLQN7A7CqbJ9wDFHndFA=",
+  "Hash": "fuTVM8geyDo51eTUon5GleSaMJicshdvHeDws4uuqi8=",
   "Source": "FileUploader.API",
   "BasePath": "_content/FileUploader.API",
   "Mode": "Default",
@@ -10,11 +10,837 @@
     {
       "Name": "FileUploader.API\\wwwroot",
       "Source": "FileUploader.API",
-      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
       "BasePath": "_content/FileUploader.API",
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.pdf",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/decoded/STR_monthly_report#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zp5o585161",
+      "Integrity": "Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\decoded\\STR_monthly_report.pdf"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.txt",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/decoded/STR_monthly_report#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wttfn1ws35",
+      "Integrity": "xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\decoded\\STR_monthly_report.txt"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\STR_monthly_report.pdf",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/encoded/STR_monthly_report#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zp5o585161",
+      "Integrity": "Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\encoded\\STR_monthly_report.pdf"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\STR_monthly_report.txt",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/encoded/STR_monthly_report#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wttfn1ws35",
+      "Integrity": "xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\encoded\\STR_monthly_report.txt"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\procssed\\STR_monthly_report-decoded.pdf",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/procssed/STR_monthly_report-decoded#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zp5o585161",
+      "Integrity": "Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\procssed\\STR_monthly_report-decoded.pdf"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\procssed\\STR_monthly_report-decoded1.pdf",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/procssed/STR_monthly_report-decoded1#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zp5o585161",
+      "Integrity": "Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\procssed\\STR_monthly_report-decoded1.pdf"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\rarreg.key",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/rarreg#[.{fingerprint}]?.key",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iq8ffmdflv",
+      "Integrity": "+vDv9P8kHiFQcMP8tti6OXq9ScRSDCEkAE7avycIhRU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\rarreg.key"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\temp\\STR_monthly_report.pdf",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/temp/STR_monthly_report#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zp5o585161",
+      "Integrity": "Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\temp\\STR_monthly_report.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/decoded/STR_monthly_report.pdf",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 11:15:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/decoded/STR_monthly_report.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 11:15:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/decoded/STR_monthly_report.wttfn1ws35.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 11:15:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wttfn1ws35"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/decoded/STR_monthly_report.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/decoded/STR_monthly_report.zp5o585161.pdf",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 11:15:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zp5o585161"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/decoded/STR_monthly_report.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/STR_monthly_report.pdf",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\STR_monthly_report.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 10:04:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/STR_monthly_report.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\STR_monthly_report.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 10:04:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/STR_monthly_report.wttfn1ws35.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\STR_monthly_report.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 10:04:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wttfn1ws35"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/STR_monthly_report.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/STR_monthly_report.zp5o585161.pdf",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\STR_monthly_report.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 10:04:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zp5o585161"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/STR_monthly_report.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/procssed/STR_monthly_report-decoded.pdf",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\procssed\\STR_monthly_report-decoded.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 13:17:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/procssed/STR_monthly_report-decoded.zp5o585161.pdf",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\procssed\\STR_monthly_report-decoded.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 13:17:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zp5o585161"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/procssed/STR_monthly_report-decoded.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/procssed/STR_monthly_report-decoded1.pdf",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\procssed\\STR_monthly_report-decoded1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 13:16:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/procssed/STR_monthly_report-decoded1.zp5o585161.pdf",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\procssed\\STR_monthly_report-decoded1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 13:16:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zp5o585161"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/procssed/STR_monthly_report-decoded1.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/rarreg.iq8ffmdflv.key",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\rarreg.key",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+vDv9P8kHiFQcMP8tti6OXq9ScRSDCEkAE7avycIhRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 12:09:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iq8ffmdflv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/rarreg.key"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+vDv9P8kHiFQcMP8tti6OXq9ScRSDCEkAE7avycIhRU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/rarreg.key",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\rarreg.key",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+vDv9P8kHiFQcMP8tti6OXq9ScRSDCEkAE7avycIhRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 12:09:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+vDv9P8kHiFQcMP8tti6OXq9ScRSDCEkAE7avycIhRU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/temp/STR_monthly_report.pdf",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\temp\\STR_monthly_report.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 13:17:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/temp/STR_monthly_report.zp5o585161.pdf",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\temp\\STR_monthly_report.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 13:17:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zp5o585161"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/temp/STR_monthly_report.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    }
+  ]
 }

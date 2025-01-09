@@ -1,3 +1,0 @@
-E:\Project\API-PracticeV2\FileUploader\FileUploader.API\wwwroot\uploads\.gitconfig
-E:\Project\API-PracticeV2\FileUploader\FileUploader.API\wwwroot\uploads\jpeg444.jpg
-E:\Project\API-PracticeV2\FileUploader\FileUploader.API\wwwroot\uploads\jpeg444asdasdada.jpg

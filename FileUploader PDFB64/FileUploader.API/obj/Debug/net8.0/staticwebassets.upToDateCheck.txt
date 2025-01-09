@@ -1,3 +1,8 @@
-wwwroot\uploads\.gitconfig
-wwwroot\uploads\jpeg444.jpg
-wwwroot\uploads\jpeg444asdasdada.jpg
+wwwroot\uploads\decoded\STR_monthly_report.pdf
+wwwroot\uploads\decoded\STR_monthly_report.txt
+wwwroot\uploads\encoded\STR_monthly_report.pdf
+wwwroot\uploads\encoded\STR_monthly_report.txt
+wwwroot\uploads\procssed\STR_monthly_report-decoded.pdf
+wwwroot\uploads\procssed\STR_monthly_report-decoded1.pdf
+wwwroot\uploads\rarreg.key
+wwwroot\uploads\temp\STR_monthly_report.pdf

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Project\\API-PracticeV2\\FileUploader\\",
+  "WorkspaceRootPath": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{027B0A98-812F-4E3F-9D23-A7C66A175A53}|FileUploader.API\\FileUploader.API.csproj|e:\\project\\api-practicev2\\fileuploader\\fileuploader.api\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{027B0A98-812F-4E3F-9D23-A7C66A175A53}|FileUploader.API\\FileUploader.API.csproj|e:\\project\\api-practicev2\\fileuploader pdfb64\\fileuploader.api\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{027B0A98-812F-4E3F-9D23-A7C66A175A53}|FileUploader.API\\FileUploader.API.csproj|solutionrelative:fileuploader.api\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{027B0A98-812F-4E3F-9D23-A7C66A175A53}|FileUploader.API\\FileUploader.API.csproj|e:\\project\\api-practicev2\\fileuploader\\fileuploader.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{027B0A98-812F-4E3F-9D23-A7C66A175A53}|FileUploader.API\\FileUploader.API.csproj|e:\\project\\api-practicev2\\fileuploader pdfb64\\fileuploader.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{027B0A98-812F-4E3F-9D23-A7C66A175A53}|FileUploader.API\\FileUploader.API.csproj|solutionrelative:fileuploader.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\Program.cs",
+              "DocumentMoniker": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\Program.cs",
               "RelativeDocumentMoniker": "FileUploader.API\\Program.cs",
-              "ToolTip": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\Program.cs",
+              "ToolTip": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\Program.cs",
               "RelativeToolTip": "FileUploader.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T13:04:10.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T13:04:10.694Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "fileuploadController.cs",
-              "DocumentMoniker": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\Controllers\\fileuploadController.cs",
+              "DocumentMoniker": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\Controllers\\fileuploadController.cs",
               "RelativeDocumentMoniker": "FileUploader.API\\Controllers\\fileuploadController.cs",
-              "ToolTip": "E:\\Project\\API-PracticeV2\\FileUploader\\FileUploader.API\\Controllers\\fileuploadController.cs",
-              "RelativeToolTip": "FileUploader.API\\Controllers\\fileuploadController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "ToolTip": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\Controllers\\fileuploadController.cs*",
+              "RelativeToolTip": "FileUploader.API\\Controllers\\fileuploadController.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T13:02:08.075Z",
               "EditorCaption": ""

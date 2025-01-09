@@ -1,58 +1,148 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\.gitconfig'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\decoded\STR_monthly_report.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>FileUploader.API</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/FileUploader.API</BasePath>
-      <RelativePath>uploads/.gitconfig</RelativePath>
+      <RelativePath>uploads/decoded/STR_monthly_report.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>hbuwcsxe4f</Fingerprint>
-      <Integrity>fW3dDXNqWY1eGxQIbgGf8sxl7RIVadsiJNnA1TS5dWM=</Integrity>
+      <Fingerprint>zp5o585161</Fingerprint>
+      <Integrity>Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\.gitconfig'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\decoded\STR_monthly_report.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\jpeg444.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\decoded\STR_monthly_report.txt'))">
       <SourceType>Package</SourceType>
       <SourceId>FileUploader.API</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/FileUploader.API</BasePath>
-      <RelativePath>uploads/jpeg444.jpg</RelativePath>
+      <RelativePath>uploads/decoded/STR_monthly_report.txt</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b73d0iixzb</Fingerprint>
-      <Integrity>icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=</Integrity>
+      <Fingerprint>wttfn1ws35</Fingerprint>
+      <Integrity>xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\jpeg444.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\decoded\STR_monthly_report.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\jpeg444asdasdada.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\STR_monthly_report.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>FileUploader.API</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/FileUploader.API</BasePath>
-      <RelativePath>uploads/jpeg444asdasdada.jpg</RelativePath>
+      <RelativePath>uploads/encoded/STR_monthly_report.pdf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b73d0iixzb</Fingerprint>
-      <Integrity>icYyu8QryRf4HnxHWVyVy5FKYZYErAe4zr9v1NHXRMo=</Integrity>
+      <Fingerprint>zp5o585161</Fingerprint>
+      <Integrity>Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\jpeg444asdasdada.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\STR_monthly_report.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\STR_monthly_report.txt'))">
+      <SourceType>Package</SourceType>
+      <SourceId>FileUploader.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FileUploader.API</BasePath>
+      <RelativePath>uploads/encoded/STR_monthly_report.txt</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wttfn1ws35</Fingerprint>
+      <Integrity>xF/7bC7lpGZQLsZRWcYVSgUr7qK6FHgMa6OnTl8V3Ec=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\STR_monthly_report.txt'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\procssed\STR_monthly_report-decoded.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>FileUploader.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FileUploader.API</BasePath>
+      <RelativePath>uploads/procssed/STR_monthly_report-decoded.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zp5o585161</Fingerprint>
+      <Integrity>Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\procssed\STR_monthly_report-decoded.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\procssed\STR_monthly_report-decoded1.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>FileUploader.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FileUploader.API</BasePath>
+      <RelativePath>uploads/procssed/STR_monthly_report-decoded1.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zp5o585161</Fingerprint>
+      <Integrity>Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\procssed\STR_monthly_report-decoded1.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\rarreg.key'))">
+      <SourceType>Package</SourceType>
+      <SourceId>FileUploader.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FileUploader.API</BasePath>
+      <RelativePath>uploads/rarreg.key</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iq8ffmdflv</Fingerprint>
+      <Integrity>+vDv9P8kHiFQcMP8tti6OXq9ScRSDCEkAE7avycIhRU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\rarreg.key'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\temp\STR_monthly_report.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>FileUploader.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FileUploader.API</BasePath>
+      <RelativePath>uploads/temp/STR_monthly_report.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zp5o585161</Fingerprint>
+      <Integrity>Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\temp\STR_monthly_report.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

@@ -1,8 +1,56 @@
 [
   {
     "ContainingType": "FileUploader.API.Controllers.fileuploadController",
+    "Method": "DecodeAndSaveFile",
+    "RelativePath": "api/fileupload/DecodeAndSaveFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FileUploader.API.Controllers.fileuploadController",
+    "Method": "UploadAndProcessPdf",
+    "RelativePath": "api/fileupload/UploadAndProcessPdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FileUploader.API.Controllers.fileuploadController",
+    "Method": "UploadEncodedFile",
+    "RelativePath": "api/fileupload/UploadEncodedFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FileUploader.API.Controllers.fileuploadController",
     "Method": "UploadFile",
-    "RelativePath": "api/fileupload/upload",
+    "RelativePath": "api/fileupload/UploadFile",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
