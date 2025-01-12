@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\Duas-Left Of.txt",
+      "PackagePath": "staticwebassets\\uploads\\decoded\\Duas-Left Of.txt"
+    },
+    {
       "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.pdf",
       "PackagePath": "staticwebassets\\uploads\\decoded\\STR_monthly_report.pdf"
     },
@@ -9,12 +13,40 @@
       "PackagePath": "staticwebassets\\uploads\\decoded\\STR_monthly_report.txt"
     },
     {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\Duas-Left Of.txt",
+      "PackagePath": "staticwebassets\\uploads\\encoded\\Duas-Left Of.txt"
+    },
+    {
       "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\STR_monthly_report.pdf",
       "PackagePath": "staticwebassets\\uploads\\encoded\\STR_monthly_report.pdf"
     },
     {
       "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\STR_monthly_report.txt",
       "PackagePath": "staticwebassets\\uploads\\encoded\\STR_monthly_report.txt"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\msedge.exe",
+      "PackagePath": "staticwebassets\\uploads\\encoded\\msedge.exe"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\msedge.txt",
+      "PackagePath": "staticwebassets\\uploads\\encoded\\msedge.txt"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\npp.8.7.5.Installer.x64.exe",
+      "PackagePath": "staticwebassets\\uploads\\encoded\\npp.8.7.5.Installer.x64.exe"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\npp.8.7.5.Installer.x64.txt",
+      "PackagePath": "staticwebassets\\uploads\\encoded\\npp.8.7.5.Installer.x64.txt"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\slack.exe",
+      "PackagePath": "staticwebassets\\uploads\\encoded\\slack.exe"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\slack.txt",
+      "PackagePath": "staticwebassets\\uploads\\encoded\\slack.txt"
     },
     {
       "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\procssed\\STR_monthly_report-decoded.pdf",

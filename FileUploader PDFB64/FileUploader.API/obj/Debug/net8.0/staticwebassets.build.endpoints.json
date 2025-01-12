@@ -3,6 +3,88 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "uploads/decoded/Duas-Left Of.s8httgyph2.txt",
+      "AssetFile": "uploads/decoded/Duas-Left Of.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg+UfYp7f3Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:22:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8httgyph2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg+UfYp7f3Tk="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/decoded/Duas-Left Of.txt"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/decoded/Duas-Left Of.txt",
+      "AssetFile": "uploads/decoded/Duas-Left Of.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg+UfYp7f3Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:22:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg+UfYp7f3Tk="
+        }
+      ]
+    },
+    {
       "Route": "uploads/decoded/STR_monthly_report.pdf",
       "AssetFile": "uploads/decoded/STR_monthly_report.pdf",
       "Selectors": [],
@@ -167,6 +249,88 @@
       ]
     },
     {
+      "Route": "uploads/encoded/Duas-Left Of.19ez8ii8rz.txt",
+      "AssetFile": "uploads/encoded/Duas-Left Of.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "19ez8ii8rz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/Duas-Left Of.txt"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/Duas-Left Of.txt",
+      "AssetFile": "uploads/encoded/Duas-Left Of.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI="
+        }
+      ]
+    },
+    {
       "Route": "uploads/encoded/STR_monthly_report.pdf",
       "AssetFile": "uploads/encoded/STR_monthly_report.pdf",
       "Selectors": [],
@@ -327,6 +491,498 @@
         {
           "Name": "label",
           "Value": "uploads/encoded/STR_monthly_report.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/msedge.exe",
+      "AssetFile": "uploads/encoded/msedge.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3911240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/msedge.p73b9g9etu.exe",
+      "AssetFile": "uploads/encoded/msedge.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3911240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p73b9g9etu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/msedge.exe"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/msedge.quizzer5gb.txt",
+      "AssetFile": "uploads/encoded/msedge.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5214991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "quizzer5gb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/msedge.txt"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/msedge.txt",
+      "AssetFile": "uploads/encoded/msedge.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5214991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/npp.8.7.5.Installer.x64.7gipmxcja6.exe",
+      "AssetFile": "uploads/encoded/npp.8.7.5.Installer.x64.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6649056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WVx1oYj60bez9vQ3KnltH+6cN5nQZb8IiLvE7/9MEXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:08:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7gipmxcja6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WVx1oYj60bez9vQ3KnltH+6cN5nQZb8IiLvE7/9MEXM="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/npp.8.7.5.Installer.x64.exe"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/npp.8.7.5.Installer.x64.exe",
+      "AssetFile": "uploads/encoded/npp.8.7.5.Installer.x64.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6649056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WVx1oYj60bez9vQ3KnltH+6cN5nQZb8IiLvE7/9MEXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:08:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WVx1oYj60bez9vQ3KnltH+6cN5nQZb8IiLvE7/9MEXM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/npp.8.7.5.Installer.x64.txt",
+      "AssetFile": "uploads/encoded/npp.8.7.5.Installer.x64.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8865411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:08:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/npp.8.7.5.Installer.x64.yo53qoc60i.txt",
+      "AssetFile": "uploads/encoded/npp.8.7.5.Installer.x64.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8865411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:08:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yo53qoc60i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/npp.8.7.5.Installer.x64.txt"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/slack.99qpibsk4q.exe",
+      "AssetFile": "uploads/encoded/slack.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "307504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "99qpibsk4q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/slack.exe"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/slack.exe",
+      "AssetFile": "uploads/encoded/slack.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "307504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/slack.rjo8anduvk.txt",
+      "AssetFile": "uploads/encoded/slack.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "410011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R4TJl+66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rjo8anduvk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R4TJl+66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/slack.txt"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/slack.txt",
+      "AssetFile": "uploads/encoded/slack.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "410011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R4TJl+66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R4TJl+66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0="
         }
       ]
     },

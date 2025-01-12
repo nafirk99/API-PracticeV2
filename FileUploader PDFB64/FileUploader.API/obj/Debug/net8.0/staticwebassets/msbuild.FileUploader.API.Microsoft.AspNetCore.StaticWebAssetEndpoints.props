@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/decoded/Duas-Left Of.s8httgyph2.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\decoded\Duas-Left Of.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s8httgyph2"},{"Name":"integrity","Value":"sha256-jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg\u002BUfYp7f3Tk="},{"Name":"label","Value":"_content/FileUploader.API/uploads/decoded/Duas-Left Of.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15934"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg\u002BUfYp7f3Tk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:22:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/decoded/Duas-Left Of.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\decoded\Duas-Left Of.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg\u002BUfYp7f3Tk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"15934"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg\u002BUfYp7f3Tk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:22:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/decoded/STR_monthly_report.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\decoded\STR_monthly_report.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -23,6 +35,90 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zp5o585161"},{"Name":"integrity","Value":"sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="},{"Name":"label","Value":"_content/FileUploader.API/uploads/decoded/STR_monthly_report.pdf"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2942"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 11:15:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/Duas-Left Of.19ez8ii8rz.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\Duas-Left Of.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"19ez8ii8rz"},{"Name":"integrity","Value":"sha256-Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI="},{"Name":"label","Value":"_content/FileUploader.API/uploads/encoded/Duas-Left Of.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21251"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:21:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/Duas-Left Of.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\Duas-Left Of.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"21251"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:21:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/msedge.exe">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\msedge.exe'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3911240"},{"Name":"Content-Type","Value":"application/vnd.microsoft.portable-executable"},{"Name":"ETag","Value":"\u0022Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:10:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/msedge.p73b9g9etu.exe">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\msedge.exe'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p73b9g9etu"},{"Name":"integrity","Value":"sha256-Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU="},{"Name":"label","Value":"_content/FileUploader.API/uploads/encoded/msedge.exe"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3911240"},{"Name":"Content-Type","Value":"application/vnd.microsoft.portable-executable"},{"Name":"ETag","Value":"\u0022Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:10:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/msedge.quizzer5gb.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\msedge.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"quizzer5gb"},{"Name":"integrity","Value":"sha256-zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4="},{"Name":"label","Value":"_content/FileUploader.API/uploads/encoded/msedge.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5214991"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:10:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/msedge.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\msedge.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5214991"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:10:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/npp.8.7.5.Installer.x64.7gipmxcja6.exe">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\npp.8.7.5.Installer.x64.exe'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7gipmxcja6"},{"Name":"integrity","Value":"sha256-WVx1oYj60bez9vQ3KnltH\u002B6cN5nQZb8IiLvE7/9MEXM="},{"Name":"label","Value":"_content/FileUploader.API/uploads/encoded/npp.8.7.5.Installer.x64.exe"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6649056"},{"Name":"Content-Type","Value":"application/vnd.microsoft.portable-executable"},{"Name":"ETag","Value":"\u0022WVx1oYj60bez9vQ3KnltH\u002B6cN5nQZb8IiLvE7/9MEXM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:08:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/npp.8.7.5.Installer.x64.exe">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\npp.8.7.5.Installer.x64.exe'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WVx1oYj60bez9vQ3KnltH\u002B6cN5nQZb8IiLvE7/9MEXM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6649056"},{"Name":"Content-Type","Value":"application/vnd.microsoft.portable-executable"},{"Name":"ETag","Value":"\u0022WVx1oYj60bez9vQ3KnltH\u002B6cN5nQZb8IiLvE7/9MEXM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:08:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/npp.8.7.5.Installer.x64.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\npp.8.7.5.Installer.x64.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8865411"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:08:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/npp.8.7.5.Installer.x64.yo53qoc60i.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\npp.8.7.5.Installer.x64.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yo53qoc60i"},{"Name":"integrity","Value":"sha256-kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE="},{"Name":"label","Value":"_content/FileUploader.API/uploads/encoded/npp.8.7.5.Installer.x64.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8865411"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:08:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/slack.99qpibsk4q.exe">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\slack.exe'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"99qpibsk4q"},{"Name":"integrity","Value":"sha256-LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY="},{"Name":"label","Value":"_content/FileUploader.API/uploads/encoded/slack.exe"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"307504"},{"Name":"Content-Type","Value":"application/vnd.microsoft.portable-executable"},{"Name":"ETag","Value":"\u0022LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:10:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/slack.exe">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\slack.exe'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"307504"},{"Name":"Content-Type","Value":"application/vnd.microsoft.portable-executable"},{"Name":"ETag","Value":"\u0022LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:10:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/slack.rjo8anduvk.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\slack.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rjo8anduvk"},{"Name":"integrity","Value":"sha256-R4TJl\u002B66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0="},{"Name":"label","Value":"_content/FileUploader.API/uploads/encoded/slack.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"410011"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022R4TJl\u002B66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:10:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/slack.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\slack.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-R4TJl\u002B66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"410011"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022R4TJl\u002B66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jan 2025 14:10:25 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FileUploader.API/uploads/encoded/STR_monthly_report.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\encoded\STR_monthly_report.pdf'))</AssetFile>

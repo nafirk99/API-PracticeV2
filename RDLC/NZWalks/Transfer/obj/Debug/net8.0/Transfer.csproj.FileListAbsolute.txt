@@ -1,0 +1,23 @@
+C:\Users\Nec\Desktop\Test 2\NZWalks\Transfer\obj\Debug\net8.0\Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nec\Desktop\Test 2\NZWalks\Transfer\obj\Debug\net8.0\Transfer.AssemblyInfoInputs.cache
+C:\Users\Nec\Desktop\Test 2\NZWalks\Transfer\obj\Debug\net8.0\Transfer.AssemblyInfo.cs
+C:\Users\Nec\Desktop\Test 2\NZWalks\Transfer\obj\Debug\net8.0\Transfer.csproj.CoreCompileInputs.cache
+C:\Users\Nec\Desktop\Test 2\NZWalks\Transfer\bin\Debug\net8.0\Transfer.deps.json
+C:\Users\Nec\Desktop\Test 2\NZWalks\Transfer\bin\Debug\net8.0\Transfer.dll
+C:\Users\Nec\Desktop\Test 2\NZWalks\Transfer\bin\Debug\net8.0\Transfer.pdb
+C:\Users\Nec\Desktop\Test 2\NZWalks\Transfer\obj\Debug\net8.0\Transfer.dll
+C:\Users\Nec\Desktop\Test 2\NZWalks\Transfer\obj\Debug\net8.0\refint\Transfer.dll
+C:\Users\Nec\Desktop\Test 2\NZWalks\Transfer\obj\Debug\net8.0\Transfer.pdb
+C:\Users\Nec\Desktop\Test 2\NZWalks\Transfer\obj\Debug\net8.0\ref\Transfer.dll
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\bin\Debug\net8.0\Transfer.deps.json
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\bin\Debug\net8.0\Transfer.dll
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\bin\Debug\net8.0\Transfer.pdb
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\obj\Debug\net8.0\Transfer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\obj\Debug\net8.0\Transfer.AssemblyInfoInputs.cache
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\obj\Debug\net8.0\Transfer.AssemblyInfo.cs
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\obj\Debug\net8.0\Transfer.csproj.CoreCompileInputs.cache
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\obj\Debug\net8.0\Transfer.sourcelink.json
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\obj\Debug\net8.0\Transfer.dll
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\obj\Debug\net8.0\refint\Transfer.dll
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\obj\Debug\net8.0\Transfer.pdb
+E:\Project\API-PracticeV2\RDLC\NZWalks\Transfer\obj\Debug\net8.0\ref\Transfer.dll

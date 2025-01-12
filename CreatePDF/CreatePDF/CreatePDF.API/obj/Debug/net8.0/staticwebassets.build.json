@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4+Jnm9bm6c1ETfzNqrMNvJe9fd7f957JD/GHq17Wv7A=",
+  "Source": "CreatePDF.API",
+  "BasePath": "_content/CreatePDF.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

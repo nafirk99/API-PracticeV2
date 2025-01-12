@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fuTVM8geyDo51eTUon5GleSaMJicshdvHeDws4uuqi8=",
+  "Hash": "KNRKC3XgNEbgh4/kMViRqAulDeSGqXetHhORwfy351E=",
   "Source": "FileUploader.API",
   "BasePath": "_content/FileUploader.API",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\Duas-Left Of.txt",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/decoded/Duas-Left Of#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8httgyph2",
+      "Integrity": "jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg+UfYp7f3Tk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\decoded\\Duas-Left Of.txt"
+    },
     {
       "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.pdf",
       "SourceId": "FileUploader.API",
@@ -57,6 +78,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\decoded\\STR_monthly_report.txt"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\Duas-Left Of.txt",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/encoded/Duas-Left Of#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "19ez8ii8rz",
+      "Integrity": "Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\encoded\\Duas-Left Of.txt"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\msedge.exe",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/encoded/msedge#[.{fingerprint}]?.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p73b9g9etu",
+      "Integrity": "Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\encoded\\msedge.exe"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\msedge.txt",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/encoded/msedge#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "quizzer5gb",
+      "Integrity": "zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\encoded\\msedge.txt"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\npp.8.7.5.Installer.x64.exe",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/encoded/npp.8.7.5.Installer.x64#[.{fingerprint}]?.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7gipmxcja6",
+      "Integrity": "WVx1oYj60bez9vQ3KnltH+6cN5nQZb8IiLvE7/9MEXM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\encoded\\npp.8.7.5.Installer.x64.exe"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\npp.8.7.5.Installer.x64.txt",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/encoded/npp.8.7.5.Installer.x64#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yo53qoc60i",
+      "Integrity": "kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\encoded\\npp.8.7.5.Installer.x64.txt"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\slack.exe",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/encoded/slack#[.{fingerprint}]?.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "99qpibsk4q",
+      "Integrity": "LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\encoded\\slack.exe"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\slack.txt",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/encoded/slack#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rjo8anduvk",
+      "Integrity": "R4TJl+66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\encoded\\slack.txt"
     },
     {
       "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\STR_monthly_report.pdf",
@@ -186,6 +354,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "uploads/decoded/Duas-Left Of.s8httgyph2.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\Duas-Left Of.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg+UfYp7f3Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:22:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8httgyph2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/decoded/Duas-Left Of.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg+UfYp7f3Tk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/decoded/Duas-Left Of.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\Duas-Left Of.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg+UfYp7f3Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:22:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg+UfYp7f3Tk="
+        }
+      ]
+    },
     {
       "Route": "uploads/decoded/STR_monthly_report.pdf",
       "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.pdf",
@@ -347,6 +597,580 @@
         {
           "Name": "integrity",
           "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/Duas-Left Of.19ez8ii8rz.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\Duas-Left Of.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "19ez8ii8rz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/Duas-Left Of.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/Duas-Left Of.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\Duas-Left Of.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gx3Sscc6lozVQ8EkyH1ofCvLpxDNwBVuyOvjRTngUMI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/msedge.exe",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\msedge.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3911240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/msedge.p73b9g9etu.exe",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\msedge.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3911240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p73b9g9etu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/msedge.exe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bd6sjVxK3Txq/1RZRJZausLOHk/D3NHNJSjBAe7RsPU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/msedge.quizzer5gb.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\msedge.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5214991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "quizzer5gb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/msedge.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/msedge.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\msedge.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5214991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zsrGN9fPuXmbbSZ5kSBqBF03LgNbHAOYR42X9lXMin4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/npp.8.7.5.Installer.x64.7gipmxcja6.exe",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\npp.8.7.5.Installer.x64.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6649056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WVx1oYj60bez9vQ3KnltH+6cN5nQZb8IiLvE7/9MEXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:08:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7gipmxcja6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/npp.8.7.5.Installer.x64.exe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WVx1oYj60bez9vQ3KnltH+6cN5nQZb8IiLvE7/9MEXM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/npp.8.7.5.Installer.x64.exe",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\npp.8.7.5.Installer.x64.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6649056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WVx1oYj60bez9vQ3KnltH+6cN5nQZb8IiLvE7/9MEXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:08:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WVx1oYj60bez9vQ3KnltH+6cN5nQZb8IiLvE7/9MEXM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/npp.8.7.5.Installer.x64.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\npp.8.7.5.Installer.x64.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8865411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:08:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/npp.8.7.5.Installer.x64.yo53qoc60i.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\npp.8.7.5.Installer.x64.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8865411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:08:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yo53qoc60i"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/npp.8.7.5.Installer.x64.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjkO6IPNhmg3jKh1NJoKWyJ0gTmXBbZeTmtjaTCwnxE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/slack.99qpibsk4q.exe",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\slack.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "307504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "99qpibsk4q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/slack.exe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/slack.exe",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\slack.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "307504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LW8TfcH/xQVAhtB68RTQoMdNtHKVSuZLQsSI6TRvNwY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/slack.rjo8anduvk.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\slack.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "410011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R4TJl+66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rjo8anduvk"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/encoded/slack.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R4TJl+66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/encoded/slack.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\encoded\\slack.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "410011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R4TJl+66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 14:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R4TJl+66Hi1ByoPgVZSoJ786LHqymrG5BzXhET16Eq0="
         }
       ]
     },

@@ -1,5 +1,13 @@
+wwwroot\uploads\decoded\Duas-Left Of.txt
 wwwroot\uploads\decoded\STR_monthly_report.pdf
 wwwroot\uploads\decoded\STR_monthly_report.txt
+wwwroot\uploads\encoded\Duas-Left Of.txt
+wwwroot\uploads\encoded\msedge.exe
+wwwroot\uploads\encoded\msedge.txt
+wwwroot\uploads\encoded\npp.8.7.5.Installer.x64.exe
+wwwroot\uploads\encoded\npp.8.7.5.Installer.x64.txt
+wwwroot\uploads\encoded\slack.exe
+wwwroot\uploads\encoded\slack.txt
 wwwroot\uploads\encoded\STR_monthly_report.pdf
 wwwroot\uploads\encoded\STR_monthly_report.txt
 wwwroot\uploads\procssed\STR_monthly_report-decoded.pdf
