@@ -11,7 +11,7 @@
               <TextRun>
                 <Value>Information on Anti-Money Laundering Measures</Value>
                 <Style>
-                  <FontSize>14pt</FontSize>
+                  <FontSize>16pt</FontSize>
                   <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
@@ -22,10 +22,10 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox4</rd:DefaultName>
-        <Top>0.85014in</Top>
-        <Left>0.10417in</Left>
+        <Top>0.26264in</Top>
+        <Left>1.02917in</Left>
         <Height>0.27431in</Height>
-        <Width>4.8125in</Width>
+        <Width>5.58172in</Width>
         <Style>
           <Border>
             <Style>None</Style>
@@ -37,10 +37,10 @@
         </Style>
       </Textbox>
       <Line Name="Line1">
-        <Top>1.24597in</Top>
-        <Left>0.10417in</Left>
+        <Top>0.55847in</Top>
+        <Left>1.05417in</Left>
         <Height>0in</Height>
-        <Width>4.70833in</Width>
+        <Width>5.18147in</Width>
         <ZIndex>1</ZIndex>
         <Style>
           <Border>
@@ -65,8 +65,8 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox5</rd:DefaultName>
-        <Top>1.24597in</Top>
-        <Left>0.10417in</Left>
+        <Top>0.55847in</Top>
+        <Left>1.02917in</Left>
         <Height>0.17708in</Height>
         <Width>2.09375in</Width>
         <ZIndex>2</ZIndex>
@@ -89,7 +89,7 @@
               <TextRun>
                 <Value>Name of Authorised Dealer with limited authority (ADLA): NEC MONEY (PTY) LTD</Value>
                 <Style>
-                  <FontSize>9pt</FontSize>
+                  <FontSize>11pt</FontSize>
                   <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
@@ -98,10 +98,10 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox6</rd:DefaultName>
-        <Top>1.4925in</Top>
-        <Left>0.10417in</Left>
+        <Top>0.905in</Top>
+        <Left>1.02917in</Left>
         <Height>0.25in</Height>
-        <Width>5.10417in</Width>
+        <Width>6.31225in</Width>
         <ZIndex>3</ZIndex>
         <Style>
           <Border>
@@ -122,6 +122,7 @@
               <TextRun>
                 <Value>Month</Value>
                 <Style>
+                  <FontSize>11pt</FontSize>
                   <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
@@ -130,10 +131,10 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox7</rd:DefaultName>
-        <Top>1.79806in</Top>
-        <Left>0.10417in</Left>
+        <Top>1.21056in</Top>
+        <Left>1.02917in</Left>
         <Height>0.25in</Height>
-        <Width>1in</Width>
+        <Width>0.53125in</Width>
         <ZIndex>4</ZIndex>
         <Style>
           <Border>
@@ -154,6 +155,7 @@
               <TextRun>
                 <Value>31 January 2025</Value>
                 <Style>
+                  <FontSize>11pt</FontSize>
                   <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
@@ -162,8 +164,8 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox7</rd:DefaultName>
-        <Top>1.79806in</Top>
-        <Left>1.17361in</Left>
+        <Top>1.21056in</Top>
+        <Left>1.66111in</Left>
         <Height>0.25in</Height>
         <Width>1.29167in</Width>
         <ZIndex>5</ZIndex>
@@ -185,15 +187,17 @@
             <TextRuns>
               <TextRun>
                 <Value>3</Value>
-                <Style />
+                <Style>
+                  <FontSize>11pt</FontSize>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>2.53416in</Top>
-        <Left>0.10417in</Left>
+        <Top>1.94666in</Top>
+        <Left>1.16667in</Left>
         <Height>0.20833in</Height>
         <Width>0.125in</Width>
         <ZIndex>6</ZIndex>
@@ -215,15 +219,17 @@
             <TextRuns>
               <TextRun>
                 <Value>2</Value>
-                <Style />
+                <Style>
+                  <FontSize>11pt</FontSize>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>2.31194in</Top>
-        <Left>0.10417in</Left>
+        <Top>1.72444in</Top>
+        <Left>1.16667in</Left>
         <Height>0.20833in</Height>
         <Width>0.125in</Width>
         <ZIndex>7</ZIndex>
@@ -245,15 +251,17 @@
             <TextRuns>
               <TextRun>
                 <Value>1</Value>
-                <Style />
+                <Style>
+                  <FontSize>11pt</FontSize>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>2.08972in</Top>
-        <Left>0.10417in</Left>
+        <Top>1.50222in</Top>
+        <Left>1.16667in</Left>
         <Height>0.20833in</Height>
         <Width>0.125in</Width>
         <ZIndex>8</ZIndex>
@@ -275,15 +283,17 @@
             <TextRuns>
               <TextRun>
                 <Value>4</Value>
-                <Style />
+                <Style>
+                  <FontSize>11pt</FontSize>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>2.77027in</Top>
-        <Left>0.10417in</Left>
+        <Top>2.18277in</Top>
+        <Left>1.16667in</Left>
         <Height>0.20833in</Height>
         <Width>0.125in</Width>
         <ZIndex>9</ZIndex>
@@ -305,15 +315,17 @@
             <TextRuns>
               <TextRun>
                 <Value>5</Value>
-                <Style />
+                <Style>
+                  <FontSize>11pt</FontSize>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>2.9786in</Top>
-        <Left>0.10417in</Left>
+        <Top>2.3911in</Top>
+        <Left>1.16667in</Left>
         <Height>0.20833in</Height>
         <Width>0.125in</Width>
         <ZIndex>10</ZIndex>
@@ -335,15 +347,17 @@
             <TextRuns>
               <TextRun>
                 <Value>6</Value>
-                <Style />
+                <Style>
+                  <FontSize>11pt</FontSize>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>3.18693in</Top>
-        <Left>0.10417in</Left>
+        <Top>2.59943in</Top>
+        <Left>1.16667in</Left>
         <Height>0.20833in</Height>
         <Width>0.125in</Width>
         <ZIndex>11</ZIndex>
@@ -365,15 +379,17 @@
             <TextRuns>
               <TextRun>
                 <Value>7</Value>
-                <Style />
+                <Style>
+                  <FontSize>11pt</FontSize>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>3.4647in</Top>
-        <Left>0.09027in</Left>
+        <Top>3.0647in</Top>
+        <Left>1.15277in</Left>
         <Height>0.20833in</Height>
         <Width>0.125in</Width>
         <ZIndex>12</ZIndex>
@@ -395,15 +411,17 @@
             <TextRuns>
               <TextRun>
                 <Value>8</Value>
-                <Style />
+                <Style>
+                  <FontSize>11pt</FontSize>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>3.67303in</Top>
-        <Left>0.09027in</Left>
+        <Top>3.29803in</Top>
+        <Left>1.15277in</Left>
         <Height>0.20833in</Height>
         <Width>0.125in</Width>
         <ZIndex>13</ZIndex>
@@ -425,15 +443,17 @@
             <TextRuns>
               <TextRun>
                 <Value>9</Value>
-                <Style />
+                <Style>
+                  <FontSize>11pt</FontSize>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>3.88136in</Top>
-        <Left>0.09027in</Left>
+        <Top>3.54386in</Top>
+        <Left>1.15277in</Left>
         <Height>0.20833in</Height>
         <Width>0.125in</Width>
         <ZIndex>14</ZIndex>
@@ -455,19 +475,17 @@
             <TextRuns>
               <TextRun>
                 <Value>Has the ADLA’s policy on Anti-Money Laundering measures been updated during the past month?</Value>
-                <Style>
-                  <FontSize>8pt</FontSize>
-                </Style>
+                <Style />
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>2.08972in</Top>
-        <Left>0.22917in</Left>
+        <Top>1.50222in</Top>
+        <Left>1.66667in</Left>
         <Height>0.18055in</Height>
-        <Width>4.97917in</Width>
+        <Width>6.21225in</Width>
         <ZIndex>15</ZIndex>
         <Style>
           <Border>
@@ -481,8 +499,8 @@
       </Textbox>
       <Rectangle Name="Rectangle1">
         <KeepTogether>true</KeepTogether>
-        <Top>2.08972in</Top>
-        <Left>5.20833in</Left>
+        <Top>1.50222in</Top>
+        <Left>7.88333in</Left>
         <Height>0.18055in</Height>
         <Width>0.47756in</Width>
         <ZIndex>16</ZIndex>
@@ -494,8 +512,8 @@
       </Rectangle>
       <Rectangle Name="Rectangle2">
         <KeepTogether>true</KeepTogether>
-        <Top>2.08972in</Top>
-        <Left>5.75534in</Left>
+        <Top>1.50222in</Top>
+        <Left>8.43034in</Left>
         <Height>0.18055in</Height>
         <Width>0.47756in</Width>
         <ZIndex>17</ZIndex>
@@ -513,19 +531,17 @@
             <TextRuns>
               <TextRun>
                 <Value>Have the ADLA’s rules pertaining to Anti-Money Laundering been updated during the past month?</Value>
-                <Style>
-                  <FontSize>8pt</FontSize>
-                </Style>
+                <Style />
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>2.32583in</Top>
-        <Left>0.24306in</Left>
+        <Top>1.72583in</Top>
+        <Left>1.66806in</Left>
         <Height>0.18055in</Height>
-        <Width>4.97917in</Width>
+        <Width>6.19836in</Width>
         <ZIndex>18</ZIndex>
         <Style>
           <Border>
@@ -545,19 +561,17 @@
             <TextRuns>
               <TextRun>
                 <Value>Number of Suspicious Transaction Reports (STR’s) during the past month</Value>
-                <Style>
-                  <FontSize>8pt</FontSize>
-                </Style>
+                <Style />
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>2.54805in</Top>
-        <Left>0.24306in</Left>
+        <Top>1.94805in</Top>
+        <Left>1.65556in</Left>
         <Height>0.18055in</Height>
-        <Width>3.85417in</Width>
+        <Width>5.41991in</Width>
         <ZIndex>19</ZIndex>
         <Style>
           <Border>
@@ -577,19 +591,17 @@
             <TextRuns>
               <TextRun>
                 <Value>Total of Rand amount involved</Value>
-                <Style>
-                  <FontSize>8pt</FontSize>
-                </Style>
+                <Style />
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>2.78415in</Top>
-        <Left>0.24306in</Left>
+        <Top>2.18415in</Top>
+        <Left>1.65556in</Left>
         <Height>0.18055in</Height>
-        <Width>1.60417in</Width>
+        <Width>2.41812in</Width>
         <ZIndex>20</ZIndex>
         <Style>
           <Border>
@@ -609,19 +621,17 @@
             <TextRuns>
               <TextRun>
                 <Value>Highest amount involved</Value>
-                <Style>
-                  <FontSize>8pt</FontSize>
-                </Style>
+                <Style />
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>2.99249in</Top>
-        <Left>0.22916in</Left>
+        <Top>2.40499in</Top>
+        <Left>1.65416in</Left>
         <Height>0.18055in</Height>
-        <Width>1.375in</Width>
+        <Width>1.96876in</Width>
         <ZIndex>21</ZIndex>
         <Style>
           <Border>
@@ -642,19 +652,17 @@
               <TextRun>
                 <Value>Were all contraventions of Exchange Control reported to the Exchange Control Department
 (Investigations Division) of SARB?</Value>
-                <Style>
-                  <FontSize>8pt</FontSize>
-                </Style>
+                <Style />
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>3.20082in</Top>
-        <Left>0.22916in</Left>
-        <Height>0.33333in</Height>
-        <Width>4.68751in</Width>
+        <Top>2.61332in</Top>
+        <Left>1.65416in</Left>
+        <Height>0.39536in</Height>
+        <Width>5.67476in</Width>
         <ZIndex>22</ZIndex>
         <Style>
           <Border>
@@ -674,19 +682,17 @@
             <TextRuns>
               <TextRun>
                 <Value>Number of training courses/session during the past month</Value>
-                <Style>
-                  <FontSize>8pt</FontSize>
-                </Style>
+                <Style />
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>3.48368in</Top>
-        <Left>0.20433in</Left>
-        <Height>0.18055in</Height>
-        <Width>3.01042in</Width>
+        <Top>3.05868in</Top>
+        <Left>1.66683in</Left>
+        <Height>0.20903in</Height>
+        <Width>5.09375in</Width>
         <ZIndex>23</ZIndex>
         <Style>
           <Border>
@@ -706,18 +712,16 @@
             <TextRuns>
               <TextRun>
                 <Value>Number of people involved</Value>
-                <Style>
-                  <FontSize>8pt</FontSize>
-                </Style>
+                <Style />
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>3.6691in</Top>
-        <Left>0.21891in</Left>
-        <Height>0.18055in</Height>
+        <Top>3.3066in</Top>
+        <Left>1.66891in</Left>
+        <Height>0.20416in</Height>
         <Width>3.98959in</Width>
         <ZIndex>24</ZIndex>
         <Style>
@@ -738,19 +742,17 @@
             <TextRuns>
               <TextRun>
                 <Value>Estimated percentage of relevant staff still to be trained or to receive refresher training</Value>
-                <Style>
-                  <FontSize>8pt</FontSize>
-                </Style>
+                <Style />
               </TextRun>
             </TextRuns>
             <Style />
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>3.87743in</Top>
-        <Left>0.22916in</Left>
-        <Height>0.18055in</Height>
-        <Width>4.58334in</Width>
+        <Top>3.55243in</Top>
+        <Left>1.66666in</Left>
+        <Height>0.22476in</Height>
+        <Width>5.61226in</Width>
         <ZIndex>25</ZIndex>
         <Style>
           <Border>
@@ -764,8 +766,8 @@
       </Textbox>
       <Rectangle Name="Rectangle3">
         <KeepTogether>true</KeepTogether>
-        <Top>2.31194in</Top>
-        <Left>5.20833in</Left>
+        <Top>1.74944in</Top>
+        <Left>7.88333in</Left>
         <Height>0.18055in</Height>
         <Width>0.47756in</Width>
         <ZIndex>26</ZIndex>
@@ -777,8 +779,8 @@
       </Rectangle>
       <Rectangle Name="Rectangle4">
         <KeepTogether>true</KeepTogether>
-        <Top>2.31194in</Top>
-        <Left>5.75534in</Left>
+        <Top>1.74944in</Top>
+        <Left>8.43034in</Left>
         <Height>0.18055in</Height>
         <Width>0.47756in</Width>
         <ZIndex>27</ZIndex>
@@ -790,8 +792,8 @@
       </Rectangle>
       <Rectangle Name="Rectangle5">
         <KeepTogether>true</KeepTogether>
-        <Top>2.53416in</Top>
-        <Left>5.20833in</Left>
+        <Top>1.99666in</Top>
+        <Left>7.88333in</Left>
         <Height>0.18055in</Height>
         <Width>0.47756in</Width>
         <ZIndex>28</ZIndex>
@@ -803,8 +805,8 @@
       </Rectangle>
       <Rectangle Name="Rectangle6">
         <KeepTogether>true</KeepTogether>
-        <Top>2.79805in</Top>
-        <Left>1.9843in</Left>
+        <Top>2.19805in</Top>
+        <Left>4.1093in</Left>
         <Height>0.18055in</Height>
         <Width>0.99839in</Width>
         <ZIndex>29</ZIndex>
@@ -816,8 +818,8 @@
       </Rectangle>
       <Rectangle Name="Rectangle7">
         <KeepTogether>true</KeepTogether>
-        <Top>3.00638in</Top>
-        <Left>1.9843in</Left>
+        <Top>2.43138in</Top>
+        <Left>4.1093in</Left>
         <Height>0.18055in</Height>
         <Width>0.99839in</Width>
         <ZIndex>30</ZIndex>
@@ -827,71 +829,13 @@
           </Border>
         </Style>
       </Rectangle>
-      <Rectangle Name="Rectangle8">
-        <KeepTogether>true</KeepTogether>
-        <Top>3.21471in</Top>
-        <Left>4.84167in</Left>
-        <Height>0.18055in</Height>
-        <Width>0.47756in</Width>
-        <ZIndex>31</ZIndex>
-        <Style>
-          <Border>
-            <Style>Solid</Style>
-          </Border>
-        </Style>
-      </Rectangle>
-      <Rectangle Name="Rectangle9">
-        <ReportItems>
-          <Textbox Name="OneA9">
-            <CanGrow>true</CanGrow>
-            <KeepTogether>true</KeepTogether>
-            <Paragraphs>
-              <Paragraph>
-                <TextRuns>
-                  <TextRun>
-                    <Value>=First(Fields!SixB.Value, "STRDataSet")</Value>
-                    <Style>
-                      <FontSize>8pt</FontSize>
-                    </Style>
-                  </TextRun>
-                </TextRuns>
-                <Style />
-              </Paragraph>
-            </Paragraphs>
-            <rd:DefaultName>OneA</rd:DefaultName>
-            <Left>0.04126in</Left>
-            <Height>0.20833in</Height>
-            <Width>0.50574in</Width>
-            <Style>
-              <Border>
-                <Style>None</Style>
-              </Border>
-              <PaddingLeft>2pt</PaddingLeft>
-              <PaddingRight>2pt</PaddingRight>
-              <PaddingTop>2pt</PaddingTop>
-              <PaddingBottom>2pt</PaddingBottom>
-            </Style>
-          </Textbox>
-        </ReportItems>
-        <KeepTogether>true</KeepTogether>
-        <Top>3.2036in</Top>
-        <Left>5.35118in</Left>
-        <Height>0.20833in</Height>
-        <Width>0.547in</Width>
-        <ZIndex>32</ZIndex>
-        <Style>
-          <Border>
-            <Style>Solid</Style>
-          </Border>
-        </Style>
-      </Rectangle>
       <Rectangle Name="Rectangle10">
         <KeepTogether>true</KeepTogether>
-        <Top>3.20521in</Top>
-        <Left>5.93886in</Left>
-        <Height>0.18055in</Height>
-        <Width>0.47756in</Width>
-        <ZIndex>33</ZIndex>
+        <Top>2.63415in</Top>
+        <Left>8.58885in</Left>
+        <Height>0.20556in</Height>
+        <Width>0.51963in</Width>
+        <ZIndex>31</ZIndex>
         <Style>
           <Border>
             <Style>Solid</Style>
@@ -900,11 +844,11 @@
       </Rectangle>
       <Rectangle Name="Rectangle11">
         <KeepTogether>true</KeepTogether>
-        <Top>3.46748in</Top>
-        <Left>4.91667in</Left>
+        <Top>3.07118in</Top>
+        <Left>7.05833in</Left>
         <Height>0.18055in</Height>
         <Width>0.99839in</Width>
-        <ZIndex>34</ZIndex>
+        <ZIndex>32</ZIndex>
         <Style>
           <Border>
             <Style>Solid</Style>
@@ -913,11 +857,11 @@
       </Rectangle>
       <Rectangle Name="Rectangle12">
         <KeepTogether>true</KeepTogether>
-        <Top>3.68692in</Top>
-        <Left>4.91667in</Left>
+        <Top>3.31562in</Top>
+        <Left>7.05833in</Left>
         <Height>0.18055in</Height>
         <Width>0.99839in</Width>
-        <ZIndex>35</ZIndex>
+        <ZIndex>33</ZIndex>
         <Style>
           <Border>
             <Style>Solid</Style>
@@ -926,11 +870,11 @@
       </Rectangle>
       <Rectangle Name="Rectangle13">
         <KeepTogether>true</KeepTogether>
-        <Top>3.90914in</Top>
-        <Left>4.91667in</Left>
+        <Top>3.56284in</Top>
+        <Left>7.05833in</Left>
         <Height>0.18055in</Height>
         <Width>0.99839in</Width>
-        <ZIndex>36</ZIndex>
+        <ZIndex>34</ZIndex>
         <Style>
           <Border>
             <Style>Solid</Style>
@@ -954,11 +898,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>2.08972in</Top>
-        <Left>5.24015in</Left>
+        <Top>1.49543in</Top>
+        <Left>7.89661in</Left>
         <Height>0.20833in</Height>
-        <Width>0.50574in</Width>
-        <ZIndex>37</ZIndex>
+        <Width>0.50178in</Width>
+        <ZIndex>35</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -986,11 +930,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>2.08021in</Top>
-        <Left>5.76765in</Left>
+        <Top>1.49543in</Top>
+        <Left>8.45851in</Left>
         <Height>0.20833in</Height>
-        <Width>0.50574in</Width>
-        <ZIndex>38</ZIndex>
+        <Width>0.44939in</Width>
+        <ZIndex>36</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1018,11 +962,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>2.29271in</Top>
-        <Left>5.24312in</Left>
+        <Top>1.73021in</Top>
+        <Left>7.91812in</Left>
         <Height>0.20833in</Height>
         <Width>0.50574in</Width>
-        <ZIndex>39</ZIndex>
+        <ZIndex>37</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1050,11 +994,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>2.29271in</Top>
-        <Left>5.78849in</Left>
+        <Top>1.73021in</Top>
+        <Left>8.46349in</Left>
         <Height>0.20833in</Height>
         <Width>0.50574in</Width>
-        <ZIndex>40</ZIndex>
+        <ZIndex>38</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1082,11 +1026,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>2.53021in</Top>
-        <Left>5.24312in</Left>
+        <Top>1.99271in</Top>
+        <Left>7.91812in</Left>
         <Height>0.20833in</Height>
-        <Width>0.50574in</Width>
-        <ZIndex>41</ZIndex>
+        <Width>0.4636in</Width>
+        <ZIndex>39</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1114,11 +1058,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>2.78021in</Top>
-        <Left>1.98062in</Left>
+        <Top>2.18021in</Top>
+        <Left>4.10562in</Left>
         <Height>0.20833in</Height>
         <Width>1.00207in</Width>
-        <ZIndex>42</ZIndex>
+        <ZIndex>40</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1146,75 +1090,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>2.99271in</Top>
-        <Left>1.98062in</Left>
+        <Top>2.41771in</Top>
+        <Left>4.10562in</Left>
         <Height>0.20833in</Height>
         <Width>1.00207in</Width>
-        <ZIndex>43</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="OneA8">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>=First(Fields!SixA.Value, "STRDataSet")</Value>
-                <Style>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>3.20521in</Top>
-        <Left>4.86652in</Left>
-        <Height>0.20833in</Height>
-        <Width>0.50574in</Width>
-        <ZIndex>44</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="OneA10">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>=First(Fields!SixC.Value, "STRDataSet")</Value>
-                <Style>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>3.18555in</Top>
-        <Left>5.93568in</Left>
-        <Height>0.20833in</Height>
-        <Width>0.50574in</Width>
-        <ZIndex>45</ZIndex>
+        <ZIndex>41</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1242,11 +1122,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>3.45521in</Top>
-        <Left>4.91813in</Left>
+        <Top>3.05891in</Top>
+        <Left>7.05979in</Left>
         <Height>0.20833in</Height>
         <Width>0.98006in</Width>
-        <ZIndex>46</ZIndex>
+        <ZIndex>42</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1274,11 +1154,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>3.65521in</Top>
-        <Left>4.91812in</Left>
+        <Top>3.28391in</Top>
+        <Left>7.05978in</Left>
         <Height>0.20833in</Height>
         <Width>0.98006in</Width>
-        <ZIndex>47</ZIndex>
+        <ZIndex>43</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1306,11 +1186,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>OneA</rd:DefaultName>
-        <Top>3.90521in</Top>
-        <Left>4.91812in</Left>
+        <Top>3.55891in</Top>
+        <Left>7.05978in</Left>
         <Height>0.20833in</Height>
         <Width>0.98006in</Width>
-        <ZIndex>48</ZIndex>
+        <ZIndex>44</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1330,7 +1210,7 @@
               <TextRun>
                 <Value>Name of Money Laundering Control</Value>
                 <Style>
-                  <FontSize>8pt</FontSize>
+                  <FontSize>9pt</FontSize>
                   <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
@@ -1339,11 +1219,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>4.07742in</Top>
-        <Left>0.24306in</Left>
-        <Height>0.18055in</Height>
-        <Width>1.95486in</Width>
-        <ZIndex>49</ZIndex>
+        <Top>4.16492in</Top>
+        <Left>1.69306in</Left>
+        <Height>0.22476in</Height>
+        <Width>2.31597in</Width>
+        <ZIndex>45</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1363,7 +1243,7 @@
               <TextRun>
                 <Value>E-Mail:</Value>
                 <Style>
-                  <FontSize>8pt</FontSize>
+                  <FontSize>9pt</FontSize>
                   <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
@@ -1372,11 +1252,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>4.25797in</Top>
-        <Left>0.24306in</Left>
-        <Height>0.18055in</Height>
-        <Width>0.45275in</Width>
-        <ZIndex>50</ZIndex>
+        <Top>4.45913in</Top>
+        <Left>1.69306in</Left>
+        <Height>0.1875in</Height>
+        <Width>0.55586in</Width>
+        <ZIndex>46</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1396,7 +1276,7 @@
               <TextRun>
                 <Value>Contact telephone number</Value>
                 <Style>
-                  <FontSize>8pt</FontSize>
+                  <FontSize>9pt</FontSize>
                   <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
@@ -1405,11 +1285,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>4.43157in</Top>
-        <Left>0.24306in</Left>
-        <Height>0.18055in</Height>
-        <Width>1.60417in</Width>
-        <ZIndex>51</ZIndex>
+        <Top>4.71607in</Top>
+        <Left>1.69306in</Left>
+        <Height>0.27244in</Height>
+        <Width>1.72014in</Width>
+        <ZIndex>47</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1429,7 +1309,7 @@
               <TextRun>
                 <Value>Kazi Forhad Kamal</Value>
                 <Style>
-                  <FontSize>8pt</FontSize>
+                  <FontSize>9pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1437,11 +1317,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>4.07742in</Top>
-        <Left>2.26736in</Left>
-        <Height>0.18055in</Height>
-        <Width>1.08334in</Width>
-        <ZIndex>52</ZIndex>
+        <Top>4.17163in</Top>
+        <Left>3.88819in</Left>
+        <Height>0.20555in</Height>
+        <Width>1.32783in</Width>
+        <ZIndex>48</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1461,7 +1341,7 @@
               <TextRun>
                 <Value>compliance@necmoney.co.za</Value>
                 <Style>
-                  <FontSize>8pt</FontSize>
+                  <FontSize>9pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1469,11 +1349,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>4.25102in</Top>
-        <Left>0.75448in</Left>
-        <Height>0.18055in</Height>
-        <Width>1.60417in</Width>
-        <ZIndex>53</ZIndex>
+        <Top>4.45774in</Top>
+        <Left>2.14892in</Left>
+        <Height>0.20139in</Height>
+        <Width>2.02787in</Width>
+        <ZIndex>49</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1493,7 +1373,7 @@
               <TextRun>
                 <Value>084 638 3249</Value>
                 <Style>
-                  <FontSize>8pt</FontSize>
+                  <FontSize>9pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1501,11 +1381,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>4.42858in</Top>
-        <Left>1.94198in</Left>
-        <Height>0.18055in</Height>
-        <Width>0.86706in</Width>
-        <ZIndex>54</ZIndex>
+        <Top>4.72046in</Top>
+        <Left>3.35626in</Left>
+        <Height>0.24305in</Height>
+        <Width>0.90896in</Width>
+        <ZIndex>50</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1525,7 +1405,7 @@
               <TextRun>
                 <Value>Signature of Money Laundering Control Officer</Value>
                 <Style>
-                  <FontSize>8pt</FontSize>
+                  <FontSize>11pt</FontSize>
                   <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
@@ -1534,11 +1414,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>5.53426in</Top>
-        <Left>1.90556in</Left>
-        <Height>0.18055in</Height>
-        <Width>2.90694in</Width>
-        <ZIndex>55</ZIndex>
+        <Top>5.70926in</Top>
+        <Left>3.35556in</Left>
+        <Height>0.2349in</Height>
+        <Width>3.64064in</Width>
+        <ZIndex>51</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1550,11 +1430,11 @@
         </Style>
       </Textbox>
       <Line Name="Line2">
-        <Top>5.49259in</Top>
-        <Left>1.90556in</Left>
+        <Top>5.66759in</Top>
+        <Left>3.34306in</Left>
         <Height>0in</Height>
-        <Width>2.72917in</Width>
-        <ZIndex>56</ZIndex>
+        <Width>3.51721in</Width>
+        <ZIndex>52</ZIndex>
         <Style>
           <Border>
             <Style>Solid</Style>
@@ -1570,7 +1450,7 @@
               <TextRun>
                 <Value>The completed form must be sent to The South African Reserve Bank, Exchange Control Department, and PO Box 3125 Pretoria 0001 by the 7th of each month.</Value>
                 <Style>
-                  <FontSize>6pt</FontSize>
+                  <FontSize>9pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1578,11 +1458,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox19</rd:DefaultName>
-        <Top>5.78425in</Top>
-        <Left>0.28002in</Left>
-        <Height>0.18055in</Height>
-        <Width>7.00188in</Width>
-        <ZIndex>57</ZIndex>
+        <Top>6.08425in</Top>
+        <Left>0.76752in</Left>
+        <Height>0.2349in</Height>
+        <Width>9.13186in</Width>
+        <ZIndex>53</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1593,20 +1473,144 @@
           <PaddingBottom>2pt</PaddingBottom>
         </Style>
       </Textbox>
+      <Textbox Name="OneA9">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!SixB.Value, "STRDataSet")</Value>
+                <Style>
+                  <FontSize>8pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>OneA</rd:DefaultName>
+        <Top>2.63554in</Top>
+        <Left>8.04347in</Left>
+        <Height>0.17917in</Height>
+        <Width>0.47593in</Width>
+        <ZIndex>54</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="OneA8">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!SixA.Value, "STRDataSet")</Value>
+                <Style>
+                  <FontSize>8pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>OneA</rd:DefaultName>
+        <Top>2.63554in</Top>
+        <Left>7.43045in</Left>
+        <Height>0.17917in</Height>
+        <Width>0.53059in</Width>
+        <ZIndex>55</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="OneA10">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!SixC.Value, "STRDataSet")</Value>
+                <Style>
+                  <FontSize>8pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>OneA</rd:DefaultName>
+        <Top>2.63599in</Top>
+        <Left>8.62962in</Left>
+        <Height>0.19005in</Height>
+        <Width>0.51963in</Width>
+        <ZIndex>56</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Rectangle Name="Rectangle14">
+        <KeepTogether>true</KeepTogether>
+        <Top>2.63415in</Top>
+        <Left>7.99978in</Left>
+        <Height>0.20556in</Height>
+        <Width>0.51963in</Width>
+        <ZIndex>57</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle15">
+        <KeepTogether>true</KeepTogether>
+        <Top>2.63415in</Top>
+        <Left>7.41086in</Left>
+        <Height>0.20556in</Height>
+        <Width>0.51963in</Width>
+        <ZIndex>58</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
     </ReportItems>
-    <Height>7.20214in</Height>
+    <Height>6.39415in</Height>
     <Style>
       <Border>
         <Style>None</Style>
       </Border>
     </Style>
   </Body>
-  <Width>7.2819in</Width>
+  <Width>9.91732in</Width>
   <Page>
-    <LeftMargin>1in</LeftMargin>
-    <RightMargin>1in</RightMargin>
-    <TopMargin>1in</TopMargin>
-    <BottomMargin>1in</BottomMargin>
+    <PageHeight>8.27in</PageHeight>
+    <PageWidth>11.69in</PageWidth>
+    <LeftMargin>0.5in</LeftMargin>
+    <RightMargin>0.5in</RightMargin>
+    <TopMargin>0.5in</TopMargin>
+    <BottomMargin>0.5in</BottomMargin>
     <Style />
   </Page>
   <AutoRefresh>0</AutoRefresh>
