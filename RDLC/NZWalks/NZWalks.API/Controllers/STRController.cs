@@ -48,7 +48,7 @@ namespace NZWalks.API.Controllers
         public async Task<IActionResult> GenerateSTRPDF()
         {
             // Fetch data from the database
-            var data = await _dbContext.STRs.FirstOrDefaultAsync(x => x.OneA == "1");
+            var data = await _dbContext.STRs.FirstOrDefaultAsync(x => x.OneA == "2");
 
             // Convert the selected STR to a format suitable for RDLC
             var reportData = new List<object>
