@@ -33,10 +33,22 @@ namespace NZWalks.API.Repositories
             return existingWalk;
         }
 
-        public async Task<List<Walk>> GetAllAsync()
+        public async Task<List<Walk>> GetAllAsync(string? filterOn = null, string? filterQuery = null)
         {
+            var walks = _dbContext.Walks.Include(d => d.Difficulty).Include(r => r.Region).AsQueryable();
+            
+            // Filtering
+            if (string.IsNullOrWhiteSpace(filterOn) == false && string.IsNullOrWhiteSpace(filterQuery) == false)
+            {
+                if (filterOn.Equals("Name", StringComparison.OrdinalIgnoreCase))  // Check if it is in name column and ignore Uper or lower case.
+                {
+                    walks = walks.Where(x => x.Name.Contains(filterQuery));
+                }
+            }
+
+            return await walks.ToListAsync();
             //return await _dbContext.Walks.Include(d => d.Difficulty).Include(r => r.Region).ToListAsync();   // Type Safe Way
-            return await _dbContext.Walks.Include("Difficulty").Include("Region").ToListAsync();               // Traditional Way
+            //return await _dbContext.Walks.Include("Difficulty").Include("Region").ToListAsync();            // Traditional Way
         }
 
         public async Task<Walk?> GetByIdAsync(Guid id)
