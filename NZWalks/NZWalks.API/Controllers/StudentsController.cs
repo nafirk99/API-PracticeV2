@@ -1,4 +1,5 @@
 ﻿using System.Security.Cryptography.X509Certificates;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +9,7 @@ namespace NZWalks.API.Controllers
     // https://localhost:portnumber(7142)/api/students
     [Route("api/[controller]")]
     [ApiController]
+    //[Authorize]
     public class StudentsController : ControllerBase
     {
         // GET:  https://localhost:portnumber(7142)/api/students

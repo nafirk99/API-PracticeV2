@@ -6,7 +6,8 @@ https://www.c-sharpcorner.com/article/building-and-running-asp-net-core-applicat
 Left Off: add other methods to repository
 003 Creating Walks Controller and Create New Walk Action Method
 Navigation Property
-7-Filtering sorting pagination :seeding data in sql server
+7-Filtering sorting pagination :Done
+  5 Setting Up Identity DbContext
 
 SQLExpress
 SQLEXPRESS

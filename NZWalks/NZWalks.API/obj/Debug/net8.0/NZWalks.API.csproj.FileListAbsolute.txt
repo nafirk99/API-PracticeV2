@@ -381,3 +381,10 @@ E:\Project\API-PracticeV2\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.pdb
 E:\Project\API-PracticeV2\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.genruntimeconfig.cache
 E:\Project\API-PracticeV2\NZWalks\NZWalks.API\obj\Debug\net8.0\ref\NZWalks.API.dll
 E:\Project\API-PracticeV2\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.dll
+E:\Project\API-PracticeV2\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\API-PracticeV2\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Project\API-PracticeV2\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Project\API-PracticeV2\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Project\API-PracticeV2\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+E:\Project\API-PracticeV2\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Project\API-PracticeV2\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
