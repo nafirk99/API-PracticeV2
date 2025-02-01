@@ -8,6 +8,9 @@ Left Off: add other methods to repository
 Navigation Property
 7-Filtering sorting pagination :Done
   5 Setting Up Identity DbContext
+  010 Create Login Action Method
+
+pass for nzwalks: 12345*
 
 SQLExpress
 SQLEXPRESS
