@@ -1,0 +1,48 @@
+1. UploadFile():
+
+This method handles the upload of any type of file.
+It receives an IFormFile object representing the uploaded file.
+Checks if the file is valid (not null or empty).
+Creates a directory to store the uploaded files (wwwroot/uploads) if it doesn't exist.
+Saves the uploaded file to the specified directory.
+Returns an OK response with information about the uploaded file (filename, size, and relative path).
+2. UploadEncodedFile():
+
+This method specifically handles the upload of files (likely PDFs) and encodes them into a Base64 string.
+It checks if the file is valid and has a PDF extension (commented out in the provided code).
+Saves the uploaded file to the "uploads/encoded" directory.
+Reads the file content into a byte array.
+Encodes the file content into a Base64 string.
+Saves the Base64 encoded string to a text file in the "uploads/encoded" directory.
+Returns an OK response.
+3. DecodeAndSaveFile():
+
+This method handles the upload of a text file containing Base64-encoded data (likely representing a PDF).
+Checks if the file is valid and has a ".txt" extension.
+Saves the uploaded text file to the "uploads/decoded" directory.
+Reads the Base64-encoded content from the text file.
+Decodes the Base64 string back into a byte array.
+Saves the decoded byte array as a PDF file in the "uploads/decoded" directory.
+Returns an OK response with information about the encoded and decoded files.
+4. UploadAndProcessPdf():
+
+This method handles the upload of a PDF file, encodes it to Base64, decodes it back to a PDF, and saves the processed file.
+It checks if the file is valid and has a PDF extension.
+Saves the uploaded PDF file to a temporary directory.
+Reads the PDF file into a byte array.
+Encodes the PDF data into a Base64 string.
+Decodes the Base64 string back into a byte array.
+Saves the decoded PDF file to the "uploads/processed" directory.
+Returns an OK response with information about the original and processed files.
+In essence, this API controller provides functionalities for:
+
+Uploading and saving files to the server.
+Encoding files into Base64 format.
+Decoding Base64-encoded files.
+Processing files (in this case, encoding and decoding PDFs).
+This is a basic example, and you can extend it further to include features like:
+
+File validation and sanitization.
+Database storage of file metadata.
+Integration with cloud storage services.
+More advanced file processing operations.

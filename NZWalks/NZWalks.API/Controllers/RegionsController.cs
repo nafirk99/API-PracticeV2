@@ -14,7 +14,7 @@ namespace NZWalks.API.Controllers
     //  https://localhost:portnumber/api/regions
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]    // We Remove Authorize from controller level and add it to the method level
     public class RegionsController : ControllerBase
     {
         private readonly NZWalksDbContext _dbContext;
@@ -33,6 +33,7 @@ namespace NZWalks.API.Controllers
         // GET: https://localhost:portnumber/api/regions
         //[HttpGet("getttt")]  // This is how you name your endpoint
         [HttpGet]
+        [Authorize(Roles = "Reader, Writer")]
         public async Task<IActionResult> GetAll()
         {
             // Get Data From Domain Model
@@ -63,6 +64,7 @@ namespace NZWalks.API.Controllers
         // GET: https://localhost:portnumber/api/regions/{id}
         [HttpGet]
         [Route("{id:guid}")]
+        [Authorize(Roles = "Reader, Writer")]
         public async Task<IActionResult> GetById([FromRoute] Guid id)
         {
             // Get Region Domain Model From Database
@@ -93,6 +95,7 @@ namespace NZWalks.API.Controllers
         // POST: https://localhost:portnumber/api/regions/
         [HttpPost]
         [ValidateModel]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> Create([FromBody] AddRegionDTO addRegionDTO)
         {
             //if (ModelState.IsValid)
@@ -140,6 +143,7 @@ namespace NZWalks.API.Controllers
         [HttpPut]
         [Route("{id:guid}")]
         [ValidateModel]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> Update([FromRoute] Guid id, UpdateRegionDTO updateRegionDTO)
         {
             //if (ModelState.IsValid)
@@ -191,6 +195,7 @@ namespace NZWalks.API.Controllers
         // DELETE: https://localhost:portnumber/api/regions/{id}
         [HttpDelete]
         [Route("{id:guid}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> Delete([FromRoute] Guid id)
         {
             // Check If The Region Exists
