@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KNRKC3XgNEbgh4/kMViRqAulDeSGqXetHhORwfy351E=",
+  "Hash": "lmvqihwZwiWKmicMfFkKNNNF47OBQSfyzm9jlho500Y=",
   "Source": "FileUploader.API",
   "BasePath": "_content/FileUploader.API",
   "Mode": "Default",
@@ -36,6 +36,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\decoded\\Duas-Left Of.txt"
+    },
+    {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\SP FOR CRUD.txt",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/decoded/SP FOR CRUD#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wnfc7kuv7o",
+      "Integrity": "TLGFBXe52IgRx823ALGbg4NlfzGWJlSkE/lI+e2oQy4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\decoded\\SP FOR CRUD.txt"
     },
     {
       "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.pdf",
@@ -269,6 +290,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\encoded\\STR_monthly_report.txt"
     },
     {
+      "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\Nafi.jpg",
+      "SourceId": "FileUploader.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\",
+      "BasePath": "_content/FileUploader.API",
+      "RelativePath": "uploads/Nafi#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xjp94bsxc0",
+      "Integrity": "nXkqx2ayKbAxSM5DY3QrKZUZBwTBXMl8lFaD7gJIS8o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Nafi.jpg"
+    },
+    {
       "Identity": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\procssed\\STR_monthly_report-decoded.pdf",
       "SourceId": "FileUploader.API",
       "SourceType": "Discovered",
@@ -433,6 +475,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-jNnTlqJGiBtJCnWAj4tlqkFScjiM6HMIg+UfYp7f3Tk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/decoded/SP FOR CRUD.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\SP FOR CRUD.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TLGFBXe52IgRx823ALGbg4NlfzGWJlSkE/lI+e2oQy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 11:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLGFBXe52IgRx823ALGbg4NlfzGWJlSkE/lI+e2oQy4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/decoded/SP FOR CRUD.wnfc7kuv7o.txt",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\SP FOR CRUD.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TLGFBXe52IgRx823ALGbg4NlfzGWJlSkE/lI+e2oQy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 11:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnfc7kuv7o"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/decoded/SP FOR CRUD.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLGFBXe52IgRx823ALGbg4NlfzGWJlSkE/lI+e2oQy4="
         }
       ]
     },
@@ -1335,6 +1459,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Cfj1D75q/MqL/xqxjdGNrHtvioiKOoxE9Ae5vhCDB1g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Nafi.jpg",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\Nafi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "398350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nXkqx2ayKbAxSM5DY3QrKZUZBwTBXMl8lFaD7gJIS8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 06:56:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nXkqx2ayKbAxSM5DY3QrKZUZBwTBXMl8lFaD7gJIS8o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Nafi.xjp94bsxc0.jpg",
+      "AssetFile": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\Nafi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "398350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nXkqx2ayKbAxSM5DY3QrKZUZBwTBXMl8lFaD7gJIS8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 06:56:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xjp94bsxc0"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Nafi.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nXkqx2ayKbAxSM5DY3QrKZUZBwTBXMl8lFaD7gJIS8o="
         }
       ]
     },

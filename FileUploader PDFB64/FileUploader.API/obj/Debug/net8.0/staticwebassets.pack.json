@@ -1,8 +1,16 @@
 {
   "Files": [
     {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\Nafi.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Nafi.jpg"
+    },
+    {
       "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\Duas-Left Of.txt",
       "PackagePath": "staticwebassets\\uploads\\decoded\\Duas-Left Of.txt"
+    },
+    {
+      "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\SP FOR CRUD.txt",
+      "PackagePath": "staticwebassets\\uploads\\decoded\\SP FOR CRUD.txt"
     },
     {
       "Id": "E:\\Project\\API-PracticeV2\\FileUploader PDFB64\\FileUploader.API\\wwwroot\\uploads\\decoded\\STR_monthly_report.pdf",

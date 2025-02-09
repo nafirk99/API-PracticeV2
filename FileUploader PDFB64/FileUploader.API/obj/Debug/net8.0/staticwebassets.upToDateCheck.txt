@@ -1,4 +1,5 @@
 wwwroot\uploads\decoded\Duas-Left Of.txt
+wwwroot\uploads\decoded\SP FOR CRUD.txt
 wwwroot\uploads\decoded\STR_monthly_report.pdf
 wwwroot\uploads\decoded\STR_monthly_report.txt
 wwwroot\uploads\encoded\Duas-Left Of.txt
@@ -10,6 +11,7 @@ wwwroot\uploads\encoded\slack.exe
 wwwroot\uploads\encoded\slack.txt
 wwwroot\uploads\encoded\STR_monthly_report.pdf
 wwwroot\uploads\encoded\STR_monthly_report.txt
+wwwroot\uploads\Nafi.jpg
 wwwroot\uploads\procssed\STR_monthly_report-decoded.pdf
 wwwroot\uploads\procssed\STR_monthly_report-decoded1.pdf
 wwwroot\uploads\rarreg.key

@@ -12,6 +12,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddHttpContextAccessor(); // Injecting HttpContextAccessor
+
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 
@@ -57,6 +60,7 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("NZWalksAuthConne
 builder.Services.AddScoped<IRegionRepository, SQLRegionRepository>();         // Registering Repo, Dependency Injection for Region Repository
 builder.Services.AddScoped<IWalkRepository, SQLWalkRepository>();             // Registering Repo, Dependency Injection for Walk Repository
 builder.Services.AddScoped<ITokenRepository, TokenRepository>();             // Registering Repo, Dependency Injection for Token Repository
+builder.Services.AddScoped<IImgageRepository, LoalImageRepository>();        // Registering Repo, Dependency Injection for Image Repository
 
 builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));                   // Injected The Created Automapper Profiles
 
@@ -91,6 +95,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         IssuerSigningKey = new SymmetricSecurityKey(
             Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
     });
+
 
 var app = builder.Build();
 

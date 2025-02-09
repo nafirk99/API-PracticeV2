@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\rdlc\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\rdlc\\nzwalks\\nzwalks.api\\controllers\\strcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\strcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\rdlc\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\rdlc\\nzwalks\\nzwalks.api\\reports\\strreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
-      "RelativeMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\reports\\strreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+      "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\rdlc\\nzwalks\\nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\rdlc\\nzwalks\\nzwalks.api\\controllers\\strcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\strcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\rdlc\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\rdlc\\nzwalks\\nzwalks.api\\reports\\strreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\reports\\strreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\rdlc\\nzwalks\\nzwalks.api\\strdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalks.API\\appsettings.json",
+              "ToolTip": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeToolTip": "NZWalks.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T08:08:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "STRDataSet.xsd",
               "DocumentMoniker": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\STRDataSet.xsd",
               "RelativeDocumentMoniker": "NZWalks.API\\STRDataSet.xsd",
@@ -65,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "STRDataSet.Designer.cs",
               "DocumentMoniker": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\STRDataSet.Designer.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\STRDataSet.Designer.cs",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "STRReport.rdlc [Design]",
               "DocumentMoniker": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\Reports\\STRReport.rdlc",
               "RelativeDocumentMoniker": "NZWalks.API\\Reports\\STRReport.rdlc",
@@ -89,15 +106,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "STRController.cs",
               "DocumentMoniker": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\Controllers\\STRController.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\STRController.cs",
               "ToolTip": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\Controllers\\STRController.cs",
               "RelativeToolTip": "NZWalks.API\\Controllers\\STRController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFQAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowFQAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T10:29:26.016Z"
+              "WhenOpened": "2025-01-12T10:29:26.016Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -114,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "NZWalksDbContext.cs",
               "DocumentMoniker": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksDbContext.cs",
@@ -126,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "STR.cs",
               "DocumentMoniker": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\Models\\Domain\\STR.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\STR.cs",
@@ -138,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Region.cs",
               "DocumentMoniker": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Region.cs",
@@ -150,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\Program.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
@@ -158,12 +176,11 @@
               "RelativeToolTip": "NZWalks.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T11:25:14.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T11:25:14.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RegionReport.rdlc [Design]",
               "DocumentMoniker": "E:\\Project\\API-PracticeV2\\RDLC\\NZWalks\\NZWalks.API\\Reports\\RegionReport.rdlc",
               "RelativeDocumentMoniker": "NZWalks.API\\Reports\\RegionReport.rdlc",

@@ -11,6 +11,8 @@ Navigation Property
   010 Create Login Action Method
   013 Role Based Authorization not complete
   014 Add Authorization To Swagger -- Done
+  09 - Image Upload In ASP.NET Core Web API -- Starting
+  004 - New Controller
 pass for nzwalks: 12345*
 
 {
