@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Project\\API-PracticeV2\\NZWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\nzwalks\\nzwalks.api\\repositories\\loalimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\loalimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\nzwalks\\nzwalks.api\\repositories\\loalimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\loalimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CDBBA93-C1BF-43CD-803E-EA164AE2F7D5}|NZWalks.API\\NZWalks.API.csproj|e:\\project\\api-practicev2\\nzwalks\\nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,20 +82,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoalImageRepository.cs",
               "DocumentMoniker": "E:\\Project\\API-PracticeV2\\NZWalks\\NZWalks.API\\Repositories\\LoalImageRepository.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\LoalImageRepository.cs",
               "ToolTip": "E:\\Project\\API-PracticeV2\\NZWalks\\NZWalks.API\\Repositories\\LoalImageRepository.cs",
               "RelativeToolTip": "NZWalks.API\\Repositories\\LoalImageRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAC7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T12:38:13.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T12:38:13.32Z"
             },
             {
               "$type": "Document",
@@ -131,8 +130,7 @@
               "RelativeToolTip": "NZWalks.API\\Controllers\\ImagesController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T11:23:16.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:23:16.4Z"
             },
             {
               "$type": "Document",
@@ -292,13 +290,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Project\\API-PracticeV2\\NZWalks\\NZWalks.API\\Program.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
               "ToolTip": "E:\\Project\\API-PracticeV2\\NZWalks\\NZWalks.API\\Program.cs",
               "RelativeToolTip": "NZWalks.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T11:32:25.677Z",
               "EditorCaption": ""
