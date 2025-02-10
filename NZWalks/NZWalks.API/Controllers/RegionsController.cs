@@ -1,4 +1,5 @@
-﻿using AutoMapper;
+﻿using System.Text.Json;
+using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -20,12 +21,14 @@ namespace NZWalks.API.Controllers
         private readonly NZWalksDbContext _dbContext;
         private readonly IRegionRepository regionRepository;
         private readonly IMapper mapper;
+        private readonly ILogger<RegionsController> logger;
 
-        public RegionsController(NZWalksDbContext dbContext, IRegionRepository regionRepository, IMapper mapper)
+        public RegionsController(NZWalksDbContext dbContext, IRegionRepository regionRepository, IMapper mapper, ILogger<RegionsController> logger)
         {
             this._dbContext = dbContext;
             this.regionRepository = regionRepository;
             this.mapper = mapper;
+            this.logger = logger;
         }
 
 
@@ -40,6 +43,9 @@ namespace NZWalks.API.Controllers
             //var regionsDomain = await _dbContext.Regions.ToListAsync();   // This is before using Repository pattern
             var regionsDomain = await regionRepository.GetAllAsync();
 
+            logger.LogInformation($"Got All Regions with data: {JsonSerializer.Serialize(regionsDomain)}");
+
+            #region
             //// Map Domain Model To DTO
             //var regionsDTO = new List<RegionDTO>();
             //foreach (var region in regionsDomain)
@@ -52,12 +58,14 @@ namespace NZWalks.API.Controllers
             //        RegionImgUrl = region.RegionImgUrl,
             //    });
             //}
+            #endregion
 
             // Map Domain Model to DTO
             var regionsDTO = mapper.Map<List<RegionDTO>>(regionsDomain);
 
             // Return The DTO
             return Ok(regionsDTO);
+
         }
 
         // Get Region By Id

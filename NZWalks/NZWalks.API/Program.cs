@@ -1,16 +1,30 @@
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+//using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
 using Microsoft.IdentityModel.Tokens;
 using NZWalks.API.Data;
 using NZWalks.API.Mappings;
+using NZWalks.API.Middlewares;
 using NZWalks.API.Repositories;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+// Adding Serilog Console Logger
+var logger = new LoggerConfiguration()
+    .WriteTo.Console()
+    .WriteTo.File("Logs/NZWalks.txt", rollingInterval: RollingInterval.Minute)
+    .MinimumLevel.Warning()
+    .CreateLogger();
+
+builder.Logging.ClearProviders();
+builder.Logging.AddSerilog(logger);
+
 
 builder.Services.AddControllers();
 builder.Services.AddHttpContextAccessor(); // Injecting HttpContextAccessor
@@ -106,6 +120,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+// Adding Exception Handler Middleware
+app.UseMiddleware<ExceptionHandlerMiddleware>();
 
 app.UseHttpsRedirection();
 
