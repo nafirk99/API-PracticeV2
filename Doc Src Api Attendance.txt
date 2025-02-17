@@ -16,7 +16,10 @@ Navigation Property
 
   Image Upload done
   Logging Done
-  Now We Do Versioning
+   Versioning-- Done
+
+** Now We Do- 12 - Consuming our Web API
+    03 get consume
 
 pass for nzwalks: 12345*
 
