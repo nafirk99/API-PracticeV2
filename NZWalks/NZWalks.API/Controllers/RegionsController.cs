@@ -31,12 +31,11 @@ namespace NZWalks.API.Controllers
             this.logger = logger;
         }
 
-
         // Get All Regions
         // GET: https://localhost:portnumber/api/regions
         //[HttpGet("getttt")]  // This is how you name your endpoint
         [HttpGet]
-        [Authorize(Roles = "Reader, Writer")]
+        //[Authorize(Roles = "Reader, Writer")]
         public async Task<IActionResult> GetAll()
         {
             // Get Data From Domain Model
@@ -72,7 +71,7 @@ namespace NZWalks.API.Controllers
         // GET: https://localhost:portnumber/api/regions/{id}
         [HttpGet]
         [Route("{id:guid}")]
-        [Authorize(Roles = "Reader, Writer")]
+        //[Authorize(Roles = "Reader, Writer")]
         public async Task<IActionResult> GetById([FromRoute] Guid id)
         {
             // Get Region Domain Model From Database
@@ -103,7 +102,7 @@ namespace NZWalks.API.Controllers
         // POST: https://localhost:portnumber/api/regions/
         [HttpPost]
         [ValidateModel]
-        [Authorize(Roles = "Writer")]
+        //[Authorize(Roles = "Writer")]
         public async Task<IActionResult> Create([FromBody] AddRegionDTO addRegionDTO)
         {
             //if (ModelState.IsValid)
@@ -151,21 +150,22 @@ namespace NZWalks.API.Controllers
         [HttpPut]
         [Route("{id:guid}")]
         [ValidateModel]
-        [Authorize(Roles = "Writer")]
+        //[Authorize(Roles = "Writer")]
         public async Task<IActionResult> Update([FromRoute] Guid id, UpdateRegionDTO updateRegionDTO)
         {
+            #region 
             //if (ModelState.IsValid)
             //{
-                //// Map DTO to Domain Model
-                //var regionDomain = new Region
-                //{
-                //    Code = updateRegionDTO.Code,
-                //    Name = updateRegionDTO.Name,
-                //    RegionImgUrl= updateRegionDTO.RegionImgUrl
-                //};
-
-                // Map DTO to Domain Model
-                var regionDomain = mapper.Map<Region>(updateRegionDTO);
+            //// Map DTO to Domain Model
+            //var regionDomain = new Region
+            //{
+            //    Code = updateRegionDTO.Code,
+            //    Name = updateRegionDTO.Name,
+            //    RegionImgUrl= updateRegionDTO.RegionImgUrl
+            //};
+            #endregion
+            // Map DTO to Domain Model
+            var regionDomain = mapper.Map<Region>(updateRegionDTO);
 
                 // Check If the Region Exists
                 //var regionDomain = await _dbContext.Regions.FirstOrDefaultAsync(x => x.Id == id); // This is happening in Repository
@@ -175,18 +175,18 @@ namespace NZWalks.API.Controllers
                 {
                     return NotFound();
                 }
-
-                //// Convert Domain Model To DTO
-                //var regionDTO = new RegionDTO
-                //{
-                //    Id=regionDomain.Id,
-                //    Code = regionDomain.Code,
-                //    Name = regionDomain.Name,
-                //    RegionImgUrl=regionDomain.RegionImgUrl
-                //};
-
-                // Map Domain Model To DTO
-                var regionDTO = mapper.Map<RegionDTO>(regionDomain);
+            #region
+            //// Convert Domain Model To DTO
+            //var regionDTO = new RegionDTO
+            //{
+            //    Id=regionDomain.Id,
+            //    Code = regionDomain.Code,
+            //    Name = regionDomain.Name,
+            //    RegionImgUrl=regionDomain.RegionImgUrl
+            //};
+            #endregion
+            // Map Domain Model To DTO
+            var regionDTO = mapper.Map<RegionDTO>(regionDomain);
 
                 // Return The DTO to the Client
                 // return Ok(mapper.Map<RegionDTO>(regionDomain));
@@ -203,7 +203,7 @@ namespace NZWalks.API.Controllers
         // DELETE: https://localhost:portnumber/api/regions/{id}
         [HttpDelete]
         [Route("{id:guid}")]
-        [Authorize(Roles = "Writer")]
+        //[Authorize(Roles = "Writer")]
         public async Task<IActionResult> Delete([FromRoute] Guid id)
         {
             // Check If The Region Exists

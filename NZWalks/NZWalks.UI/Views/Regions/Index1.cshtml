@@ -1,0 +1,21 @@
+﻿@* @model IEnumerable<NZWalks.UI.Models.DTO.CatFactDTO> *@
+@model NZWalks.UI.Models.DTO.CatFactDTO
+
+<h1 class="mt-3">Testing Public API Consumption GET</h1>
+
+<table class="table table-bordered table-hover ">
+    <thead class="bg-info">
+        <tr>
+            <th>Length</th>
+            <th>Fact</th>
+        </tr>
+    </thead>
+    <tbody> 
+       
+            <tr>
+                <td>@Model.Length</td>
+                <td>@Model.Fact</td>
+            </tr>
+        
+    </tbody>
+</table>

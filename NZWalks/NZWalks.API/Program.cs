@@ -112,6 +112,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     });
 
 
+//builder.Services.AddHttpClient(); // Injecting HttpClient
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

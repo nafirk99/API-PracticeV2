@@ -51,7 +51,7 @@ namespace NZWalks.API.Controllers
                 isAscending ?? true, pageNumber, pageSize); // If its nullable then change it to true
 
             // Mimic An exception
-            throw new Exception("This is an exception");
+            //throw new Exception("This is an exception");
 
             // Map Domain Model To DTO
             var walkDTO = mapper.Map<List<WalkDTO>>(walkDomainModel);
