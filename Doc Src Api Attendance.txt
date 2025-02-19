@@ -3,7 +3,7 @@ https://downloadlynet.ir/2023/02/99684/07/build-asp-net-core-web-api-scratch-to-
 https://www.c-sharpcorner.com/article/building-and-running-asp-net-core-application-in-docker-container/
 https://www.c-sharpcorner.com/article/building-and-running-asp-net-core-application-in-docker-container/
 
-Left Off: add other methods to repository
+
 003 Creating Walks Controller and Create New Walk Action Method
 Navigation Property
 7-Filtering sorting pagination :Done
@@ -19,7 +19,8 @@ Navigation Property
    Versioning-- Done
 
 ** Now We Do- 12 - Consuming our Web API
-    03 get consume
+	03 GET Consume - Done
+	04 POST Consume
 
 pass for nzwalks: 12345*
 

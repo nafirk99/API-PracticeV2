@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Text;
+using System.Text.Json;
+using Microsoft.AspNetCore.Mvc;
+using NZWalks.UI.Models;
 using NZWalks.UI.Models.DTO;
 
 namespace NZWalks.UI.Controllers
@@ -11,6 +14,7 @@ namespace NZWalks.UI.Controllers
         {
             this.httpClientFactory = httpClientFactory;
         }
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
             List<RegionDTO> response = new List<RegionDTO>();
@@ -28,12 +32,90 @@ namespace NZWalks.UI.Controllers
             catch (Exception ex)
             {
                 // Log the exception with error level and include the exception details.
-                //logger.LogError(ex, "An error occurred while fetching regions in Index action.");
+                // logger.LogError(ex, "An error occurred while fetching regions in Index action.");
             }
 
             return View(response);
         }
 
+        [HttpGet]
+        public IActionResult Add()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Add(AddRegionViewModel model)
+        {
+            var client = httpClientFactory.CreateClient();
+
+            var httpRequestMessage = new HttpRequestMessage()
+            {
+                Method = HttpMethod.Post,
+                RequestUri = new Uri("https://localhost:7142/api/regions"),
+                Content = new StringContent(JsonSerializer.Serialize(model), Encoding.UTF8, "application/json")
+            };
+
+            var httpResponseMessage = await client.SendAsync(httpRequestMessage);
+            httpResponseMessage.EnsureSuccessStatusCode();
+
+            var response = await httpResponseMessage.Content.ReadFromJsonAsync<RegionDTO>();
+
+            if (response != null)
+            {
+                return RedirectToAction("Index", "Regions");
+            }
+            return View();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(Guid id)
+        {
+            var client = httpClientFactory.CreateClient();
+
+            var response = await client.GetFromJsonAsync<RegionDTO>($"https://localhost:7142/api/regions/{id}");
+
+            if (response != null)
+            {
+                return View(response);
+            }
+
+            return View(null);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(RegionDTO request)
+        {
+            var client = httpClientFactory.CreateClient();
+
+            var httpRequestMessage = new HttpRequestMessage()
+            {
+                Method = HttpMethod.Put,
+                RequestUri = new Uri($"https://localhost:7142/api/regions/{request.Id}"),
+                Content = new StringContent(JsonSerializer.Serialize(request), Encoding.UTF8, "application/json")
+            };
+            var httpResponseMessage = await client.SendAsync(httpRequestMessage);
+            httpResponseMessage.EnsureSuccessStatusCode();
+
+            var response = await httpResponseMessage.Content.ReadFromJsonAsync<RegionDTO>();
+            if (response != null) 
+            {
+                return RedirectToAction("Index", "Regions");
+            }
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(RegionDTO request)
+        {
+            var client = httpClientFactory.CreateClient();
+            var httpResponseMessage = await client.DeleteAsync($"https://localhost:7142/api/regions/{request.Id}");
+            httpResponseMessage.EnsureSuccessStatusCode();
+            return RedirectToAction("Index", "Regions");
+        }
+
+
+        [HttpGet]
         public async Task<IActionResult> Index1()
         {
             var response = new CatFactDTO();
@@ -56,6 +138,7 @@ namespace NZWalks.UI.Controllers
 
             return View(response);
         }
+        [HttpGet]
         public async Task<IActionResult> Index2()
         {
             List<CryptoTickerDto> response = new List<CryptoTickerDto>();
