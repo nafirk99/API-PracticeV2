@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Diagnostics;
+using System.Text;
 using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
 using NZWalks.UI.Models;
@@ -22,10 +23,13 @@ namespace NZWalks.UI.Controllers
             {
                 // Get All Regions from API
                 var client = httpClientFactory.CreateClient();
-
+                var startTime = Stopwatch.GetTimestamp();
                 var httpResponseMessage = await client.GetAsync("https://localhost:7142/api/regions");
-
+                var deltaTime = Stopwatch.GetElapsedTime(startTime);
                 httpResponseMessage.EnsureSuccessStatusCode();
+
+                string Time = deltaTime.TotalSeconds.ToString();
+                ViewBag.Time = Time;    
 
                 response.AddRange(await httpResponseMessage.Content.ReadFromJsonAsync<IEnumerable<RegionDTO>>());
             }
@@ -112,6 +116,8 @@ namespace NZWalks.UI.Controllers
             var httpResponseMessage = await client.DeleteAsync($"https://localhost:7142/api/regions/{request.Id}");
             httpResponseMessage.EnsureSuccessStatusCode();
             return RedirectToAction("Index", "Regions");
+
+            // Implement try catch block to handle exceptions as we used EnsureSuccessStatusCode() method.
         }
 
 
@@ -146,8 +152,11 @@ namespace NZWalks.UI.Controllers
             {
                 // Get All Regions from API
                 var client = httpClientFactory.CreateClient();
-
+                var startTime = Stopwatch.GetTimestamp();
                 var httpResponseMessage = await client.GetAsync("https://api4.binance.com/api/v3/ticker/24hr");
+                var deltaTime = Stopwatch.GetElapsedTime(startTime);
+
+                ViewBag.CryptoTime = deltaTime.TotalSeconds.ToString();
 
                 httpResponseMessage.EnsureSuccessStatusCode();
 

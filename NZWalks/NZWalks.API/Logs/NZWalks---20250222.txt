@@ -1,0 +1,58 @@
+2025-02-22 16:48:55.320 +06:00 [INF] User profile is available. Using 'C:\Users\Nec\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-22 16:48:55.611 +06:00 [INF] Now listening on: https://localhost:7142
+2025-02-22 16:48:55.612 +06:00 [INF] Now listening on: http://localhost:5047
+2025-02-22 16:48:55.705 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-22 16:48:55.707 +06:00 [INF] Hosting environment: Development
+2025-02-22 16:48:55.708 +06:00 [INF] Content root path: E:\Project\API-PracticeV2\NZWalks\NZWalks.API
+2025-02-22 16:48:56.411 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7142/swagger/index.html - null null
+2025-02-22 16:48:56.804 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7142/swagger/index.html - 200 null text/html;charset=utf-8 402.9207ms
+2025-02-22 16:48:57.017 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7142/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-22 16:48:57.033 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7142/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 15.298ms
+2025-02-22 16:48:57.089 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7142/_vs/browserLink - null null
+2025-02-22 16:48:57.131 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7142/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.0537ms
+2025-02-22 16:48:57.185 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7142/swagger/v1/swagger.json - null null
+2025-02-22 16:48:57.201 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7142/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 16.0688ms
+2025-02-22 16:48:57.952 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:7142/api/regions - null null
+2025-02-22 16:48:58.013 +06:00 [INF] Executing endpoint 'NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API)'
+2025-02-22 16:48:58.037 +06:00 [INF] Route matched with {action = "GetAll", controller = "Regions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller NZWalks.API.Controllers.RegionsController (NZWalks.API).
+2025-02-22 16:48:59.220 +06:00 [INF] Executed DbCommand (33ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[Id], [r].[Code], [r].[Name], [r].[RegionImgUrl]
+FROM [Regions] AS [r]
+2025-02-22 16:48:59.278 +06:00 [INF] Got All Regions with data: [{"Id":"0ada0027-8694-4cec-d890-08dd50d2769b","Code":"BDD","Name":"Bangladesh","RegionImgUrl":"bangladesh.jpeg"},{"Id":"4220cf6c-e314-4e7e-d891-08dd50d2769b","Code":"BDS","Name":"badsbda","RegionImgUrl":"badasdasd"},{"Id":"5f166ce2-765b-4e7f-7bc9-08dd50dab399","Code":"IND","Name":"India","RegionImgUrl":"india.jpeg"},{"Id":"906cb139-415a-4bbb-a174-1a1faf9fb1f6","Code":"NSN","Name":"Nelson","RegionImgUrl":"https://images.pexels.com/photos/13918194/pexels-photo-13918194.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1260\u0026h=750\u0026dpr=1"},{"Id":"f7248fc3-2585-4efb-8d1d-1c555f4087f6","Code":"AKL","Name":"Auckland","RegionImgUrl":"https://images.pexels.com/photos/5169056/pexels-photo-5169056.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1260\u0026h=750\u0026dpr=1"},{"Id":"14ceba71-4b51-4777-9b17-46602cf66153","Code":"BOP","Name":"Bay Of Plenty","RegionImgUrl":null},{"Id":"6884f7d7-ad1f-4101-8df3-7a6fa7387d81","Code":"NTL","Name":"Northland","RegionImgUrl":null}]
+2025-02-22 16:48:59.297 +06:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[NZWalks.API.Models.DTO.RegionDTO, NZWalks.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-22 16:48:59.312 +06:00 [INF] Executed action NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API) in 1269.6582ms
+2025-02-22 16:48:59.314 +06:00 [INF] Executed endpoint 'NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API)'
+2025-02-22 16:48:59.322 +06:00 [INF] Request finished HTTP/1.1 GET https://localhost:7142/api/regions - 200 null application/json; charset=utf-8 1370.2363ms
+2025-02-22 16:49:01.800 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:7142/api/regions - null null
+2025-02-22 16:49:01.805 +06:00 [INF] Executing endpoint 'NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API)'
+2025-02-22 16:49:01.807 +06:00 [INF] Route matched with {action = "GetAll", controller = "Regions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller NZWalks.API.Controllers.RegionsController (NZWalks.API).
+2025-02-22 16:49:01.825 +06:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[Id], [r].[Code], [r].[Name], [r].[RegionImgUrl]
+FROM [Regions] AS [r]
+2025-02-22 16:49:01.827 +06:00 [INF] Got All Regions with data: [{"Id":"0ada0027-8694-4cec-d890-08dd50d2769b","Code":"BDD","Name":"Bangladesh","RegionImgUrl":"bangladesh.jpeg"},{"Id":"4220cf6c-e314-4e7e-d891-08dd50d2769b","Code":"BDS","Name":"badsbda","RegionImgUrl":"badasdasd"},{"Id":"5f166ce2-765b-4e7f-7bc9-08dd50dab399","Code":"IND","Name":"India","RegionImgUrl":"india.jpeg"},{"Id":"906cb139-415a-4bbb-a174-1a1faf9fb1f6","Code":"NSN","Name":"Nelson","RegionImgUrl":"https://images.pexels.com/photos/13918194/pexels-photo-13918194.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1260\u0026h=750\u0026dpr=1"},{"Id":"f7248fc3-2585-4efb-8d1d-1c555f4087f6","Code":"AKL","Name":"Auckland","RegionImgUrl":"https://images.pexels.com/photos/5169056/pexels-photo-5169056.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1260\u0026h=750\u0026dpr=1"},{"Id":"14ceba71-4b51-4777-9b17-46602cf66153","Code":"BOP","Name":"Bay Of Plenty","RegionImgUrl":null},{"Id":"6884f7d7-ad1f-4101-8df3-7a6fa7387d81","Code":"NTL","Name":"Northland","RegionImgUrl":null}]
+2025-02-22 16:49:01.831 +06:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[NZWalks.API.Models.DTO.RegionDTO, NZWalks.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-22 16:49:01.833 +06:00 [INF] Executed action NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API) in 24.5616ms
+2025-02-22 16:49:01.834 +06:00 [INF] Executed endpoint 'NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API)'
+2025-02-22 16:49:01.836 +06:00 [INF] Request finished HTTP/1.1 GET https://localhost:7142/api/regions - 200 null application/json; charset=utf-8 35.799ms
+2025-02-22 16:49:15.409 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7142/api/Regions - null null
+2025-02-22 16:49:15.426 +06:00 [INF] Executing endpoint 'NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API)'
+2025-02-22 16:49:15.427 +06:00 [INF] Route matched with {action = "GetAll", controller = "Regions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller NZWalks.API.Controllers.RegionsController (NZWalks.API).
+2025-02-22 16:49:15.483 +06:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[Id], [r].[Code], [r].[Name], [r].[RegionImgUrl]
+FROM [Regions] AS [r]
+2025-02-22 16:49:15.486 +06:00 [INF] Got All Regions with data: [{"Id":"0ada0027-8694-4cec-d890-08dd50d2769b","Code":"BDD","Name":"Bangladesh","RegionImgUrl":"bangladesh.jpeg"},{"Id":"4220cf6c-e314-4e7e-d891-08dd50d2769b","Code":"BDS","Name":"badsbda","RegionImgUrl":"badasdasd"},{"Id":"5f166ce2-765b-4e7f-7bc9-08dd50dab399","Code":"IND","Name":"India","RegionImgUrl":"india.jpeg"},{"Id":"906cb139-415a-4bbb-a174-1a1faf9fb1f6","Code":"NSN","Name":"Nelson","RegionImgUrl":"https://images.pexels.com/photos/13918194/pexels-photo-13918194.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1260\u0026h=750\u0026dpr=1"},{"Id":"f7248fc3-2585-4efb-8d1d-1c555f4087f6","Code":"AKL","Name":"Auckland","RegionImgUrl":"https://images.pexels.com/photos/5169056/pexels-photo-5169056.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1260\u0026h=750\u0026dpr=1"},{"Id":"14ceba71-4b51-4777-9b17-46602cf66153","Code":"BOP","Name":"Bay Of Plenty","RegionImgUrl":null},{"Id":"6884f7d7-ad1f-4101-8df3-7a6fa7387d81","Code":"NTL","Name":"Northland","RegionImgUrl":null}]
+2025-02-22 16:49:15.490 +06:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[NZWalks.API.Models.DTO.RegionDTO, NZWalks.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-22 16:49:15.491 +06:00 [INF] Executed action NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API) in 62.5131ms
+2025-02-22 16:49:15.493 +06:00 [INF] Executed endpoint 'NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API)'
+2025-02-22 16:49:15.493 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7142/api/Regions - 200 null application/json; charset=utf-8 84.8643ms
+2025-02-22 16:49:16.824 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7142/api/Regions - null null
+2025-02-22 16:49:16.827 +06:00 [INF] Executing endpoint 'NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API)'
+2025-02-22 16:49:16.828 +06:00 [INF] Route matched with {action = "GetAll", controller = "Regions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller NZWalks.API.Controllers.RegionsController (NZWalks.API).
+2025-02-22 16:49:16.833 +06:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[Id], [r].[Code], [r].[Name], [r].[RegionImgUrl]
+FROM [Regions] AS [r]
+2025-02-22 16:49:16.837 +06:00 [INF] Got All Regions with data: [{"Id":"0ada0027-8694-4cec-d890-08dd50d2769b","Code":"BDD","Name":"Bangladesh","RegionImgUrl":"bangladesh.jpeg"},{"Id":"4220cf6c-e314-4e7e-d891-08dd50d2769b","Code":"BDS","Name":"badsbda","RegionImgUrl":"badasdasd"},{"Id":"5f166ce2-765b-4e7f-7bc9-08dd50dab399","Code":"IND","Name":"India","RegionImgUrl":"india.jpeg"},{"Id":"906cb139-415a-4bbb-a174-1a1faf9fb1f6","Code":"NSN","Name":"Nelson","RegionImgUrl":"https://images.pexels.com/photos/13918194/pexels-photo-13918194.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1260\u0026h=750\u0026dpr=1"},{"Id":"f7248fc3-2585-4efb-8d1d-1c555f4087f6","Code":"AKL","Name":"Auckland","RegionImgUrl":"https://images.pexels.com/photos/5169056/pexels-photo-5169056.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1260\u0026h=750\u0026dpr=1"},{"Id":"14ceba71-4b51-4777-9b17-46602cf66153","Code":"BOP","Name":"Bay Of Plenty","RegionImgUrl":null},{"Id":"6884f7d7-ad1f-4101-8df3-7a6fa7387d81","Code":"NTL","Name":"Northland","RegionImgUrl":null}]
+2025-02-22 16:49:16.840 +06:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[NZWalks.API.Models.DTO.RegionDTO, NZWalks.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-22 16:49:16.841 +06:00 [INF] Executed action NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API) in 11.084ms
+2025-02-22 16:49:16.842 +06:00 [INF] Executed endpoint 'NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API)'
+2025-02-22 16:49:16.844 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7142/api/Regions - 200 null application/json; charset=utf-8 19.8328ms
